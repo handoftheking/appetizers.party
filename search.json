@@ -1,0 +1,567 @@
+[
+
+  
+    {
+      "title"			: "crispy frizzled artichokes",
+      "link"			: "http://127.0.0.1:4000/articles/crispy-frizzled-artichokes/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "wild mushroom pâté",
+      "link"			: "http://127.0.0.1:4000/articles/wild-mushroom-pate/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "roasted grape and olive crostini",
+      "link"			: "http://127.0.0.1:4000/articles/roasted-grape-and-olive-crostini/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "smoked whitefish dip with horseradish",
+      "link"			: "http://127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "pretzel parker house rolls",
+      "link"			: "http://127.0.0.1:4000/articles/pretzel-parker-house-rolls/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "pickled cabbage salad",
+      "link"			: "http://127.0.0.1:4000/articles/pickled-cabbage-salad/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "squash toasts with ricotta and cider vinegar",
+      "link"			: "http://127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "herbed tomato and roasted garlic tart",
+      "link"			: "http://127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "Hello World",
+      "link"			: "http://127.0.0.1:4000/blog/hello-world/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "nancy’s chopped salad",
+      "link"			: "http://127.0.0.1:4000/articles/nancys-chopped-salad/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "avocado cup salads, two ways",
+      "link"			: "http://127.0.0.1:4000/articles/avocado-cup-salads-two-ways/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "asparagus-stuffed eggs",
+      "link"			: "http://127.0.0.1:4000/articles/asparagus-stuffed-eggs/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "warm lentil and potato salad",
+      "link"			: "http://127.0.0.1:4000/articles/warm-lentil-and-potato-salad/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "parmesan broth with kale and white beans",
+      "link"			: "http://127.0.0.1:4000/articles/parmesan-broth-with-kale-and-white-beans/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "garlicky party bread with cheese and herbs",
+      "link"			: "http://127.0.0.1:4000/articles/garlicky-party-bread-with-cheese-and-herbs/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "burst tomato galette with corn and zucchini",
+      "link"			: "http://127.0.0.1:4000/articles/burst-tomato-galette-with-corn-and-zucchini/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "grilled bacon salad with arugula and balsamic",
+      "link"			: "http://127.0.0.1:4000/articles/grilled-bacon-salad-with-arugula-and-balsamic/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "japanese vegetable pancakes",
+      "link"			: "http://127.0.0.1:4000/articles/japanese-cabbage-and-vegetable-pancakes/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "fromage fort",
+      "link"			: "http://127.0.0.1:4000/articles/fromage-fort/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "cauliflower-feta fritters with pomegranate",
+      "link"			: "http://127.0.0.1:4000/articles/cauliflower-feta-fritters-with-pomegranate/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "mediterranean baked feta with tomatoes",
+      "link"			: "http://127.0.0.1:4000/articles/mediterranean-baked-feta-with-tomatoes/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "asparagus with almonds and yogurt dressing",
+      "link"			: "http://127.0.0.1:4000/articles/asparagus-with-almonds-and-yogurt-dressing/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "scallion meatballs with soy-ginger glaze",
+      "link"			: "http://127.0.0.1:4000/articles/scallion-meatballs-with-soy-ginger-glaze/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "parsnip latkes with horseradish and dill",
+      "link"			: "http://127.0.0.1:4000/articles/parsnip-latkes-with-horseradish-and-dill/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "caesar salad deviled eggs",
+      "link"			: "http://127.0.0.1:4000/articles/caesar-salad-deviled-eggs/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "roasted eggplant with tomatoes and mint",
+      "link"			: "http://127.0.0.1:4000/articles/roasted-eggplant-with-tomatoes-and-mint/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "zucchini fritters",
+      "link"			: "http://127.0.0.1:4000/articles/zucchini-fritters/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "flatbreads with honey, thyme and sea salt",
+      "link"			: "http://127.0.0.1:4000/articles/flatbreads-with-honey-thyme-and-sea-salt/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "rich homemade ricotta",
+      "link"			: "http://127.0.0.1:4000/articles/rich-homemade-ricotta/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "leek toasts with blue cheese",
+      "link"			: "http://127.0.0.1:4000/articles/leeks-toasts-with-blue-cheese/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "pizza with bacon, onions and cream",
+      "link"			: "http://127.0.0.1:4000/articles/pizza-with-bacon-onions-and-cream/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "garlic butter roasted mushrooms",
+      "link"			: "http://127.0.0.1:4000/articles/garlic-butter-roasted-mushrooms/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "broiled mussels",
+      "link"			: "http://127.0.0.1:4000/articles/broiled-mussels/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "crushed peas with smoky sesame dressing",
+      "link"			: "http://127.0.0.1:4000/articles/crushed-peas-with-smoky-sesame-dressing/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "spinach and chickpeas",
+      "link"			: "http://127.0.0.1:4000/articles/spinach-and-chickpeas/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "walnut pesto",
+      "link"			: "http://127.0.0.1:4000/articles/walnut-pesto/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "parmesan cream crackers",
+      "link"			: "http://127.0.0.1:4000/articles/parmesan-cream-crackers/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "creamed mushrooms on chive butter toast",
+      "link"			: "http://127.0.0.1:4000/articles/creamed-mushrooms-on-chive-butter-toast/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "baked chicken meatballs",
+      "link"			: "http://127.0.0.1:4000/articles/baked-chicken-meatballs/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "spanakopita triangles + then some",
+      "link"			: "http://127.0.0.1:4000/articles/spanakopita-triangles-then-some/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "cheese straws",
+      "link"			: "http://127.0.0.1:4000/articles/cheese-straws/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "pickled grapes with cinnamon and black pepper",
+      "link"			: "http://127.0.0.1:4000/articles/pickled-grapes-with-cinnamon-and-black-pepper/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "artichoke-olive crostini",
+      "link"			: "http://127.0.0.1:4000/articles/artichoke-olive-crostini/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "spelt everything crackers",
+      "link"			: "http://127.0.0.1:4000/articles/spelt-everything-crackers/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "potato pancakes, even better",
+      "link"			: "http://127.0.0.1:4000/articles/potato-pancakes-even-better/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "feta salsa",
+      "link"			: "http://127.0.0.1:4000/articles/feta-salsa/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "onion tart with mustard and fennel",
+      "link"			: "http://127.0.0.1:4000/articles/onion-tart-with-mustard-and-fennel/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "marinated eggplant with capers and mint",
+      "link"			: "http://127.0.0.1:4000/articles/marinated-eggplant-with-capers-and-mint/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "grilled eggplant with caponata salsa",
+      "link"			: "http://127.0.0.1:4000/articles/grilled-eggplant-with-caponata-salsa/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "crisp rosemary flatbread",
+      "link"			: "http://127.0.0.1:4000/articles/crisp-rosemary-flatbread/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "herbed summer squash and potato torte",
+      "link"			: "http://127.0.0.1:4000/articles/herbed-summer-squash-and-potato-torte/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "mushroom strudel",
+      "link"			: "http://127.0.0.1:4000/articles/mushroom-streudels/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "creamy white polenta with mushrooms",
+      "link"			: "http://127.0.0.1:4000/articles/creamy-white-polenta-with-mushrooms/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "butternut squash and caramelized onion galette",
+      "link"			: "http://127.0.0.1:4000/articles/butternut-squash-and-caramelized-onion-galette/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "quick zucchini sauté",
+      "link"			: "http://127.0.0.1:4000/articles/my-favorite-side-dish/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "white bean roasted red pepper dip",
+      "link"			: "http://127.0.0.1:4000/articles/dorkalicious/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "pickled garlicky red peppers",
+      "link"			: "http://127.0.0.1:4000/articles/the-road-to-pickle-proficiency/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "risotto al barolo + green crostini",
+      "link"			: "http://127.0.0.1:4000/articles/batali-sans-barolo/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "vegetable dumplings",
+      "link"			: "http://127.0.0.1:4000/articles/on-obsessiveness-and-ollies/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "parmesan black pepper biscotti",
+      "link"			: "http://127.0.0.1:4000/articles/the-anticandy/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "zucchini latkes",
+      "link"			: "http://127.0.0.1:4000/articles/latke-minus-vodka/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "gougères + stuffed mushrooms",
+      "link"			: "http://127.0.0.1:4000/articles/just-a-few-bites/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "shrimp cocktail + artichoke-potato gratin",
+      "link"			: "http://127.0.0.1:4000/articles/when-the-stars-make-you-drool/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "indian-spiced vegetable fritters",
+      "link"			: "http://127.0.0.1:4000/articles/throwing-pancakes-to-the-wind/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "zucchini, ham and ricotta fritters",
+      "link"			: "http://127.0.0.1:4000/articles/shes-finally-lost-it/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+  
+    ,{
+      "title"			: "sundried tomato stuffed mushrooms",
+      "link"			: "http://127.0.0.1:4000/articles/grievances-aired-caps-stuffed/",
+      "excerpt"		: "from smittenkitchen.com"
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "About the Jekyll Theme",
+      "link"			: "http://127.0.0.1:4000/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "Theme Setup",
+      "link"			: "http://127.0.0.1:4000/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+  
+
+  
+
+  
+
+]
