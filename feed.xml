@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Appetizers.party</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://127.0.0.1:4000" />
-<updated>2015-06-27T23:48:57+02:00</updated>
-<id>http://127.0.0.1:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
+<link rel="alternate" type="text/html" href="http://appetizers.party" />
+<updated>2015-06-28T00:17:02+02:00</updated>
+<id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
-  <uri>http://127.0.0.1:4000/</uri>
+  <uri>http://appetizers.party/</uri>
   <email>contact@appetizers.party</email>
 </author>
 
@@ -17,19 +17,19 @@
 
 <entry>
   <title type="html"><![CDATA[crispy frizzled artichokes]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/crispy-frizzled-artichokes/" />
-  <id>http://127.0.0.1:4000/articles/crispy-frizzled-artichokes</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/crispy-frizzled-artichokes/" />
+  <id>http://appetizers.party/articles/crispy-frizzled-artichokes</id>
   <published>2015-06-01T00:00:00+02:00</published>
   <updated>2015-06-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/crispy-frizzled-artichokes/&quot;&gt;crispy frizzled artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/crispy-frizzled-artichokes/&quot;&gt;crispy frizzled artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -38,19 +38,19 @@
 
 <entry>
   <title type="html"><![CDATA[wild mushroom pâté]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/wild-mushroom-pate/" />
-  <id>http://127.0.0.1:4000/articles/wild-mushroom-pate</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/wild-mushroom-pate/" />
+  <id>http://appetizers.party/articles/wild-mushroom-pate</id>
   <published>2015-03-01T00:00:00+01:00</published>
   <updated>2015-03-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/wild-mushroom-pate/&quot;&gt;wild mushroom pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/wild-mushroom-pate/&quot;&gt;wild mushroom pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -59,19 +59,19 @@
 
 <entry>
   <title type="html"><![CDATA[roasted grape and olive crostini]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/roasted-grape-and-olive-crostini/" />
-  <id>http://127.0.0.1:4000/articles/roasted-grape-and-olive-crostini</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/roasted-grape-and-olive-crostini/" />
+  <id>http://appetizers.party/articles/roasted-grape-and-olive-crostini</id>
   <published>2014-12-01T00:00:00+01:00</published>
   <updated>2014-12-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/roasted-grape-and-olive-crostini/&quot;&gt;roasted grape and olive crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted-grape-and-olive-crostini/&quot;&gt;roasted grape and olive crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -80,19 +80,19 @@
 
 <entry>
   <title type="html"><![CDATA[smoked whitefish dip with horseradish]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish/" />
-  <id>http://127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/" />
+  <id>http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;smoked whitefish dip with horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;smoked whitefish dip with horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -101,19 +101,19 @@
 
 <entry>
   <title type="html"><![CDATA[pretzel parker house rolls]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/pretzel-parker-house-rolls/" />
-  <id>http://127.0.0.1:4000/articles/pretzel-parker-house-rolls</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pretzel-parker-house-rolls/" />
+  <id>http://appetizers.party/articles/pretzel-parker-house-rolls</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/pretzel-parker-house-rolls/&quot;&gt;pretzel parker house rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pretzel-parker-house-rolls/&quot;&gt;pretzel parker house rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -122,19 +122,19 @@
 
 <entry>
   <title type="html"><![CDATA[pickled cabbage salad]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/pickled-cabbage-salad/" />
-  <id>http://127.0.0.1:4000/articles/pickled-cabbage-salad</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pickled-cabbage-salad/" />
+  <id>http://appetizers.party/articles/pickled-cabbage-salad</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/pickled-cabbage-salad/&quot;&gt;pickled cabbage salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pickled-cabbage-salad/&quot;&gt;pickled cabbage salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -143,19 +143,19 @@
 
 <entry>
   <title type="html"><![CDATA[squash toasts with ricotta and cider vinegar]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
-  <id>http://127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
+  <id>http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
   <published>2014-10-01T00:00:00+02:00</published>
   <updated>2014-10-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;squash toasts with ricotta and cider vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;squash toasts with ricotta and cider vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -164,19 +164,19 @@
 
 <entry>
   <title type="html"><![CDATA[herbed tomato and roasted garlic tart]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart/" />
-  <id>http://127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/" />
+  <id>http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart</id>
   <published>2014-09-01T00:00:00+02:00</published>
   <updated>2014-09-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;herbed tomato and roasted garlic tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;herbed tomato and roasted garlic tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -185,13 +185,13 @@
 
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/blog/hello-world/" />
-  <id>http://127.0.0.1:4000/blog/hello-world</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/blog/hello-world/" />
+  <id>http://appetizers.party/blog/hello-world</id>
   <published>2014-08-08T21:39:55+02:00</published>
   <updated>2014-08-08T21:39:55+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
@@ -213,7 +213,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -222,19 +222,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[nancy’s chopped salad]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/nancys-chopped-salad/" />
-  <id>http://127.0.0.1:4000/articles/nancys-chopped-salad</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/nancys-chopped-salad/" />
+  <id>http://appetizers.party/articles/nancys-chopped-salad</id>
   <published>2014-06-01T00:00:00+02:00</published>
   <updated>2014-06-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/nancys-chopped-salad/&quot;&gt;nancy’s chopped salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/nancys-chopped-salad/&quot;&gt;nancy’s chopped salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -243,19 +243,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[avocado cup salads, two ways]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/avocado-cup-salads-two-ways/" />
-  <id>http://127.0.0.1:4000/articles/avocado-cup-salads-two-ways</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/avocado-cup-salads-two-ways/" />
+  <id>http://appetizers.party/articles/avocado-cup-salads-two-ways</id>
   <published>2014-04-01T00:00:00+02:00</published>
   <updated>2014-04-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/avocado-cup-salads-two-ways/&quot;&gt;avocado cup salads, two ways&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/avocado-cup-salads-two-ways/&quot;&gt;avocado cup salads, two ways&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -264,19 +264,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[asparagus-stuffed eggs]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/asparagus-stuffed-eggs/" />
-  <id>http://127.0.0.1:4000/articles/asparagus-stuffed-eggs</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/asparagus-stuffed-eggs/" />
+  <id>http://appetizers.party/articles/asparagus-stuffed-eggs</id>
   <published>2014-04-01T00:00:00+02:00</published>
   <updated>2014-04-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/asparagus-stuffed-eggs/&quot;&gt;asparagus-stuffed eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/asparagus-stuffed-eggs/&quot;&gt;asparagus-stuffed eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -285,19 +285,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[warm lentil and potato salad]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/warm-lentil-and-potato-salad/" />
-  <id>http://127.0.0.1:4000/articles/warm-lentil-and-potato-salad</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/warm-lentil-and-potato-salad/" />
+  <id>http://appetizers.party/articles/warm-lentil-and-potato-salad</id>
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/warm-lentil-and-potato-salad/&quot;&gt;warm lentil and potato salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/warm-lentil-and-potato-salad/&quot;&gt;warm lentil and potato salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -306,19 +306,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[parmesan broth with kale and white beans]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/parmesan-broth-with-kale-and-white-beans/" />
-  <id>http://127.0.0.1:4000/articles/parmesan-broth-with-kale-and-white-beans</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/parmesan-broth-with-kale-and-white-beans/" />
+  <id>http://appetizers.party/articles/parmesan-broth-with-kale-and-white-beans</id>
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/parmesan-broth-with-kale-and-white-beans/&quot;&gt;parmesan broth with kale and white beans&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/parmesan-broth-with-kale-and-white-beans/&quot;&gt;parmesan broth with kale and white beans&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -327,19 +327,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[garlicky party bread with cheese and herbs]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/garlicky-party-bread-with-cheese-and-herbs/" />
-  <id>http://127.0.0.1:4000/articles/garlicky-party-bread-with-cheese-and-herbs</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/garlicky-party-bread-with-cheese-and-herbs/" />
+  <id>http://appetizers.party/articles/garlicky-party-bread-with-cheese-and-herbs</id>
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/garlicky-party-bread-with-cheese-and-herbs/&quot;&gt;garlicky party bread with cheese and herbs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/garlicky-party-bread-with-cheese-and-herbs/&quot;&gt;garlicky party bread with cheese and herbs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -348,19 +348,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[burst tomato galette with corn and zucchini]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/burst-tomato-galette-with-corn-and-zucchini/" />
-  <id>http://127.0.0.1:4000/articles/burst-tomato-galette-with-corn-and-zucchini</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/burst-tomato-galette-with-corn-and-zucchini/" />
+  <id>http://appetizers.party/articles/burst-tomato-galette-with-corn-and-zucchini</id>
   <published>2013-08-01T00:00:00+02:00</published>
   <updated>2013-08-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/burst-tomato-galette-with-corn-and-zucchini/&quot;&gt;burst tomato galette with corn and zucchini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on August 01, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/burst-tomato-galette-with-corn-and-zucchini/&quot;&gt;burst tomato galette with corn and zucchini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on August 01, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -369,19 +369,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[grilled bacon salad with arugula and balsamic]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/grilled-bacon-salad-with-arugula-and-balsamic/" />
-  <id>http://127.0.0.1:4000/articles/grilled-bacon-salad-with-arugula-and-balsamic</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/grilled-bacon-salad-with-arugula-and-balsamic/" />
+  <id>http://appetizers.party/articles/grilled-bacon-salad-with-arugula-and-balsamic</id>
   <published>2013-07-01T00:00:00+02:00</published>
   <updated>2013-07-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/grilled-bacon-salad-with-arugula-and-balsamic/&quot;&gt;grilled bacon salad with arugula and balsamic&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/grilled-bacon-salad-with-arugula-and-balsamic/&quot;&gt;grilled bacon salad with arugula and balsamic&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -390,19 +390,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[japanese vegetable pancakes]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/japanese-cabbage-and-vegetable-pancakes/" />
-  <id>http://127.0.0.1:4000/articles/japanese-cabbage-and-vegetable-pancakes</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/japanese-cabbage-and-vegetable-pancakes/" />
+  <id>http://appetizers.party/articles/japanese-cabbage-and-vegetable-pancakes</id>
   <published>2013-05-01T00:00:00+02:00</published>
   <updated>2013-05-01T00:00:00+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/japanese-cabbage-and-vegetable-pancakes/&quot;&gt;japanese vegetable pancakes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/japanese-cabbage-and-vegetable-pancakes/&quot;&gt;japanese vegetable pancakes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -411,19 +411,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[fromage fort]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/fromage-fort/" />
-  <id>http://127.0.0.1:4000/articles/fromage-fort</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/fromage-fort/" />
+  <id>http://appetizers.party/articles/fromage-fort</id>
   <published>2012-12-01T00:00:00+01:00</published>
   <updated>2012-12-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/fromage-fort/&quot;&gt;fromage fort&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/fromage-fort/&quot;&gt;fromage fort&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -432,19 +432,19 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 <entry>
   <title type="html"><![CDATA[cauliflower-feta fritters with pomegranate]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/articles/cauliflower-feta-fritters-with-pomegranate/" />
-  <id>http://127.0.0.1:4000/articles/cauliflower-feta-fritters-with-pomegranate</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/cauliflower-feta-fritters-with-pomegranate/" />
+  <id>http://appetizers.party/articles/cauliflower-feta-fritters-with-pomegranate</id>
   <published>2012-12-01T00:00:00+01:00</published>
   <updated>2012-12-01T00:00:00+01:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/articles/cauliflower-feta-fritters-with-pomegranate/&quot;&gt;cauliflower-feta fritters with pomegranate&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/cauliflower-feta-fritters-with-pomegranate/&quot;&gt;cauliflower-feta fritters with pomegranate&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2012.&lt;/p&gt;
   </content>
 </entry>
 
