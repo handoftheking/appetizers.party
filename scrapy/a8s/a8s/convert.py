@@ -19,7 +19,6 @@ link: {link}
 author: {source}
 ---
 
-{content}
 """
 
 
@@ -38,9 +37,14 @@ if __name__ == "__main__":
     with open(json_items_file, 'r') as src:
         for item in json.load(src):
             with codecs.open(os.path.join(ARTICLES_DIR, item['slug'] + '.md'),
-                             'w', 'utf-8') as article:
+                             'r+', 'utf-8') as article:
+                body = article.read().split('---\n')[-1].strip('\n')
+                article.seek(0)
                 article.write(TEMPLATE.format(title=item['title'].title(),
                               source=item['source'],
                               link=item['link'],
-                              content=get_content(item)
                               ))
+                if body:
+                    article.write(body)
+                else:
+                    article.write(get_content(item))
