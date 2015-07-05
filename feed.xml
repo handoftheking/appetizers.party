@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
 <link rel="alternate" type="text/html" href="http://appetizers.party" />
-<updated>2015-07-05T08:36:59+02:00</updated>
+<updated>2015-07-05T09:17:03+02:00</updated>
 <id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
@@ -22,9 +22,9 @@
   <published>2015-06-01T00:00:00+02:00</published>
   <updated>2015-06-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -43,9 +43,9 @@
   <published>2015-03-01T00:00:00+01:00</published>
   <updated>2015-03-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -64,9 +64,9 @@
   <published>2014-12-01T00:00:00+01:00</published>
   <updated>2014-12-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -85,9 +85,9 @@
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -106,9 +106,9 @@
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -127,9 +127,9 @@
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -148,9 +148,9 @@
   <published>2014-10-01T00:00:00+02:00</published>
   <updated>2014-10-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -169,9 +169,9 @@
   <published>2014-09-01T00:00:00+02:00</published>
   <updated>2014-09-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -227,9 +227,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-06-01T00:00:00+02:00</published>
   <updated>2014-06-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -248,9 +248,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-04-01T00:00:00+02:00</published>
   <updated>2014-04-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -269,9 +269,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-04-01T00:00:00+02:00</published>
   <updated>2014-04-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -290,9 +290,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -311,9 +311,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -332,9 +332,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2014-01-01T00:00:00+01:00</published>
   <updated>2014-01-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -353,9 +353,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2013-08-01T00:00:00+02:00</published>
   <updated>2013-08-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -374,9 +374,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2013-07-01T00:00:00+02:00</published>
   <updated>2013-07-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -395,9 +395,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2013-05-01T00:00:00+02:00</published>
   <updated>2013-05-01T00:00:00+02:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -416,9 +416,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2012-12-01T00:00:00+01:00</published>
   <updated>2012-12-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     
@@ -437,9 +437,9 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
   <published>2012-12-01T00:00:00+01:00</published>
   <updated>2012-12-01T00:00:00+01:00</updated>
   <author>
-    <name>Appetizers.party</name>
+    <name>smittenkitchen</name>
     <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
+    
   </author>
   <content type="html">
     

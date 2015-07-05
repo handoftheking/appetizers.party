@@ -11,23 +11,22 @@ ARTICLES_DIR = os.path.join(os.path.abspath(os.path.join(__file__,
 
 TEMPLATE = u"""---
 layout: post
-title: %s
-excerpt: from %s
+title: {title}
+excerpt: from {source}
 categories: articles
-tags: [%s]
-link: %s
+tags: [{source}]
+link: {link}
+author: {source}
 ---
 """
 
-
 if __name__ == "__main__":
-    print(ARTICLES_DIR)
-    with open(sys.argv[1], 'r') as src:
+    json_items_file = sys.argv[1]
+    with open(json_items_file, 'r') as src:
         for item in json.load(src):
             with codecs.open(os.path.join(ARTICLES_DIR, item['slug'] + '.md'),
                              'w', 'utf-8') as article:
-                article.write(TEMPLATE % (
-                              item['title'],
-                              item['source'],
-                              item['source'],
-                              item['link']))
+                article.write(TEMPLATE.format(title=item['title'],
+                              source=item['source'],
+                              link=item['link'],
+                              ))
