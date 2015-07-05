@@ -13,3 +13,4 @@ class A8SItem(scrapy.Item):
     link = scrapy.Field()
     slug = scrapy.Field()
     source = scrapy.Field()
+    ingredients = scrapy.Field()

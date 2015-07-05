@@ -18,7 +18,19 @@ tags: [{source}]
 link: {link}
 author: {source}
 ---
+
+{content}
 """
+
+
+def get_content(item):
+    if 'ingredients' in item:
+        res = '- '
+        res += '\n- '.join(item['ingredients'])
+        res += '\n\n'
+    res += 'Go check the recipe instructions on [%s](%s).' % \
+        (item['source'], item['link'])
+    return res
 
 if __name__ == "__main__":
     json_items_file = sys.argv[1]
@@ -26,7 +38,8 @@ if __name__ == "__main__":
         for item in json.load(src):
             with codecs.open(os.path.join(ARTICLES_DIR, item['slug'] + '.md'),
                              'w', 'utf-8') as article:
-                article.write(TEMPLATE.format(title=item['title'],
+                article.write(TEMPLATE.format(title=item['title'].title(),
                               source=item['source'],
                               link=item['link'],
+                              content=get_content(item)
                               ))

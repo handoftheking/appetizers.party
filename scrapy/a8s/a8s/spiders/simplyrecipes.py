@@ -37,4 +37,6 @@ class SimplyrecipesSpider(CrawlSpider):
         date = response.xpath('//time/@content').extract()[0]
         item['slug'] = '%s-%s' % (date,
                                   os.path.basename(response.url.strip('/')))
+        item['ingredients'] = response.xpath(
+            '//li[@class="ingredient"]/text()').extract()
         yield item
