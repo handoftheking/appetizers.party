@@ -1,8 +1,9 @@
+import os
+
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
 from a8s.items import A8SItem
-
 
 SOURCE = 'www.simplyrecipes.com'
 
@@ -14,21 +15,24 @@ class SimplyrecipesSpider(CrawlSpider):
         'http://%s/recipes/course/appetizer/' % SOURCE  # http://ww.simplyrecipes.com/recipes/course/appetizer/
     ]
 
-    rules = (Rule(LinkExtractor(
-             allow=(r'http://%s/recipes/course/appetizer/.*' % SOURCE),
-             restrict_xpaths=(r'//p[@class="next page-numbers"]', )),
-        callback="parse_items", follow= True),
+    rules = (
+        Rule(LinkExtractor(
+            allow=(r'http://%s/recipes/course/appetizer/page/.*' % SOURCE,),
+        ), follow=True),
+        Rule(LinkExtractor(
+            allow=(r'http://www.simplyrecipes.com/recipes/.*'),
+            deny=(r'http://www.simplyrecipes.com/recipes/type',
+                  r'http://www.simplyrecipes.com/recipes/.*/.*/'),
+            restrict_xpaths='//ul[@class="entry-list"]'
+        ), callback="parse_items", follow=False),
     )
 
-    def parse(self, response):
-        items = response.xpath('//a[@name="Appetizers"]/following::ul[1]/li')
-        for sel in items:
-            item = A8SItem()
-            item['title'] = sel.xpath('a/text()').extract()[0]
-            item['link'] = sel.xpath('a/@href').extract()[0]
-            print item['link']
-            slug = item['link'].split(
-                'http://%s/blog/' % SOURCE)[1].replace('/', '-').strip('-')
-            item['slug'] = '%s01-%s' % (slug[:8], slug[8:])
-            item['source'] = SOURCE
-            yield item
+    def parse_items(self, response):
+        # from scrapy.shell import inspect_response
+        # inspect_response(response, self)
+        item = A8SItem()
+        item['title'] = response.xpath('//h1/text()').extract()[0]
+        item['link'] = response.url
+        item['slug'] = os.path.basename(response.url.strip('/'))
+        item['source'] = SOURCE
+        yield item

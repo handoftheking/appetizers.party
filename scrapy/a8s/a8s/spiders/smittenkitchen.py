@@ -1,7 +1,6 @@
 import scrapy
 from a8s.items import A8SItem
 
-
 SOURCE = 'smittenkitchen.com'
 
 
