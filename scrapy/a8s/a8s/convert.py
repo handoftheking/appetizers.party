@@ -29,7 +29,7 @@ def get_content(item):
         res += '- '
         res += '\n- '.join(item['ingredients'])
         res += '\n\n'
-    res += '**Go check the recipe instructions on [%s](%s).**' % \
+    res += 'Go check the recipe instructions on [%s](%s).' % \
         (item['source'], item['link'])
     return res
 
