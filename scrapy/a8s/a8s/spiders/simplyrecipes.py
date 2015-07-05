@@ -1,21 +1,23 @@
-import scrapy
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+
 from a8s.items import A8SItem
 
 
 SOURCE = 'www.simplyrecipes.com'
 
 
-class SimplyrecipesSpider(scrapy.Spider):
+class SimplyrecipesSpider(CrawlSpider):
     name = "simplyrecipes"
     allowed_domains = [SOURCE]
     start_urls = [
-        'http://%s/recipes/course/appetizer/' % SOURCE
+        'http://%s/recipes/course/appetizer/' % SOURCE  # http://ww.simplyrecipes.com/recipes/course/appetizer/
     ]
 
-    rules = (Rule (LinkExtractor(
-             allow=('http://%s/recipes/course/appetizer/page/3/' % SOURCE),
-             restrict_xpaths=('//p[@class="next page-numbers"]',))
-        , callback="parse_items", follow= True),
+    rules = (Rule(LinkExtractor(
+             allow=(r'http://%s/recipes/course/appetizer/.*' % SOURCE),
+             restrict_xpaths=(r'//p[@class="next page-numbers"]', )),
+        callback="parse_items", follow= True),
     )
 
     def parse(self, response):
