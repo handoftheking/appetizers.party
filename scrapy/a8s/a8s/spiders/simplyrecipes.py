@@ -33,6 +33,8 @@ class SimplyrecipesSpider(CrawlSpider):
         item = A8SItem()
         item['title'] = response.xpath('//h1/text()').extract()[0]
         item['link'] = response.url
-        item['slug'] = os.path.basename(response.url.strip('/'))
         item['source'] = SOURCE
+        date = response.xpath('//time/@content').extract()[0]
+        item['slug'] = '%s-%s' % (date,
+                                  os.path.basename(response.url.strip('/')))
         yield item
