@@ -22,22 +22,33 @@ author: {source}
 """
 
 
+def extract_name(slug):
+    return sorted(slug.split('.'), key=len)[-1]
+
+
 def get_content(item):
     res = ''
     if 'ingredients' in item:
-        res += '- '
-        res += '\n- '.join(item['ingredients'])
-        res += '\n\n'
+        res += '### Ingredients\n\n'
+        res += '  \n'.join(item['ingredients'])
+        res += '\n\n### Recipe\n\n'
     res += 'Go check the recipe instructions on [%s](%s).' % \
         (item['source'], item['link'])
     return res
+
 
 if __name__ == "__main__":
     json_items_file = sys.argv[1]
     with open(json_items_file, 'r') as src:
         for item in json.load(src):
-            with codecs.open(os.path.join(ARTICLES_DIR, item['slug'] + '.md'),
-                             'r+', 'utf-8') as article:
+            source_dir = os.path.join(ARTICLES_DIR,
+                                      extract_name(item['source']))
+            if not os.path.exists(source_dir):
+                os.makedirs(source_dir)
+            with codecs.open(os.path.join(source_dir,
+                             item['slug'] + '.md'),
+                             'a+', 'utf-8') as article:
+                article.seek(0)
                 body = article.read().split('---\n')[-1].strip('\n')
                 article.seek(0)
                 article.write(TEMPLATE.format(title=item['title'].title(),

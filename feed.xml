@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
 <link rel="alternate" type="text/html" href="http://appetizers.party" />
-<updated>2015-07-06T01:12:34+02:00</updated>
+<updated>2015-07-06T07:10:22+02:00</updated>
 <id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
@@ -27,16 +27,39 @@
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;1 pound 16-20 count large prawns, peeled and deveined (can still have tail on for presentation)&lt;/li&gt;
-  &lt;li&gt;Olive oil&lt;/li&gt;
-  &lt;li&gt;Salt&lt;/li&gt;
-  &lt;li&gt;3 Tbsp butter&lt;/li&gt;
-  &lt;li&gt;3 cloves garlic, minced&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon kosher salt&lt;/li&gt;
-  &lt;li&gt;1 teaspoon minced chives for garnish&lt;/li&gt;
-  &lt;li&gt;Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 pound 16-20 count large prawns, peeled and deveined (can still have tail on for presentation)&lt;br /&gt;
+Olive oil&lt;br /&gt;
+Salt&lt;br /&gt;
+3 Tbsp butter&lt;br /&gt;
+3 cloves garlic, minced&lt;br /&gt;
+1/4 teaspoon kosher salt&lt;br /&gt;
+1 teaspoon minced chives for garnish&lt;br /&gt;
+Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/grilled_garlic_shrimp_skewers/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Grilled Garlic Shrimp Skewers
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/grilled_garlic_shrimp_skewers/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 pound 16-20 count large prawns, peeled and deveined (can still have tail on for presentation)&lt;br /&gt;
+Olive oil&lt;br /&gt;
+Salt&lt;br /&gt;
+3 Tbsp butter&lt;br /&gt;
+3 cloves garlic, minced&lt;br /&gt;
+1/4 teaspoon kosher salt&lt;br /&gt;
+1 teaspoon minced chives for garnish&lt;br /&gt;
+Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/grilled_garlic_shrimp_skewers/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -61,13 +84,11 @@
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Baby or large artichokes, as many as you wish to prep and eat&lt;/li&gt;
-  &lt;li&gt;1 to 2 lemons, halved (1 should be fine for smaller amounts)&lt;/li&gt;
-  &lt;li&gt;Olive oil&lt;/li&gt;
-  &lt;li&gt;Coarse salt&lt;/li&gt;
-  &lt;li&gt;Chopped flat-leaf parsley (for garnish, optional)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Baby or large artichokes, as many as you wish to prep and eat&lt;br /&gt;
+1 to 2 lemons, halved (1 should be fine for smaller amounts)&lt;br /&gt;
+Olive oil&lt;br /&gt;
+Coarse salt&lt;br /&gt;
+Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
@@ -92,16 +113,39 @@
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed&lt;/li&gt;
-  &lt;li&gt;1/2 red onion&lt;/li&gt;
-  &lt;li&gt;2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste&lt;/li&gt;
-  &lt;li&gt;Juice of one lime&lt;/li&gt;
-  &lt;li&gt;1/2 cup chopped cilantro&lt;/li&gt;
-  &lt;li&gt;Salt and pepper to taste&lt;/li&gt;
-  &lt;li&gt;Pinch of dried oregano (crumble in your fingers before adding), more to taste&lt;/li&gt;
-  &lt;li&gt;Pinch of ground cumin, more to taste&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed&lt;br /&gt;
+1/2 red onion&lt;br /&gt;
+2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste&lt;br /&gt;
+Juice of one lime&lt;br /&gt;
+1/2 cup chopped cilantro&lt;br /&gt;
+Salt and pepper to taste&lt;br /&gt;
+Pinch of dried oregano (crumble in your fingers before adding), more to taste&lt;br /&gt;
+Pinch of ground cumin, more to taste&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Fresh Tomato Salsa
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed&lt;br /&gt;
+1/2 red onion&lt;br /&gt;
+2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste&lt;br /&gt;
+Juice of one lime&lt;br /&gt;
+1/2 cup chopped cilantro&lt;br /&gt;
+Salt and pepper to taste&lt;br /&gt;
+Pinch of dried oregano (crumble in your fingers before adding), more to taste&lt;br /&gt;
+Pinch of ground cumin, more to taste&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -144,6 +188,59 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Deviled Eggs]]></title>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/deviled_eggs/" />
+  <id>http://appetizers.party/articles/deviled_eggs</id>
+  <published>2015-03-24T00:00:00+01:00</published>
+  <updated>2015-03-24T00:00:00+01:00</updated>
+  <author>
+    <name>simplyrecipes</name>
+    <uri>http://appetizers.party</uri>
+    
+  </author>
+  <content type="html">
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 dozen eggs&lt;br /&gt;
+2 teaspoons dijon mustard&lt;br /&gt;
+1/3 cup mayonnaise&lt;br /&gt;
+1 Tbsp minced shallot or onion&lt;br /&gt;
+1/4 teaspoon Tabasco sauce&lt;br /&gt;
+Salt and pepper&lt;br /&gt;
+Paprika&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/deviled_eggs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Deviled Eggs
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/deviled_eggs/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 dozen eggs&lt;br /&gt;
+2 teaspoons dijon mustard&lt;br /&gt;
+1/3 cup mayonnaise&lt;br /&gt;
+1 Tbsp minced shallot or onion&lt;br /&gt;
+1/4 teaspoon Tabasco sauce&lt;br /&gt;
+Salt and pepper&lt;br /&gt;
+Paprika&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/deviled_eggs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/deviled_eggs/&quot;&gt;Deviled Eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 24, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Wild Mushroom Pâté]]></title>
   <link rel="alternate" type="text/html" href="http://appetizers.party/articles/wild-mushroom-pate/" />
   <id>http://appetizers.party/articles/wild-mushroom-pate</id>
@@ -155,27 +252,7 @@
     
   </author>
   <content type="html">
-    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Pâté&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;1 ounce dried porcini or cepe mushrooms&lt;br /&gt;
-1 cup boiling water&lt;br /&gt;
-1/4 cup olive oil&lt;br /&gt;
-3 tablespoons butter, divided&lt;br /&gt;
-1 1/2 cups diced yellow onion or a combination of chopped onions and shallots (I used 1 cup onion, 1/2 cup shallots)&lt;br /&gt;
-Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
-1 1/2 pounds mixed fresh mushrooms, any tough stems discarded and roughly chopped&lt;br /&gt;
-1 teaspoon fresh thyme leaves (use half if dry)&lt;br /&gt;
-1/4 cup Madeira, Marsala or sherry, or 1/2 cup white wine  &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To serve&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Crackers or matzo, sieved hard-boiled egg, chopped flat-leaf parsley and/or chives, small pickles or cornichons, additional caramelized onions or pickled shallots or red onions&lt;/p&gt;
-
-&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
-
-&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
   </content>
@@ -196,16 +273,39 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;4 oz shredded Mozzarella cheese (1 cup)&lt;/li&gt;
-  &lt;li&gt;8 oz shredded sharp cheddar cheese (about 2 cups)&lt;/li&gt;
-  &lt;li&gt;1/4 to 1/2 cup chopped green onion (to taste)&lt;/li&gt;
-  &lt;li&gt;1/4 cup mayonnaise&lt;/li&gt;
-  &lt;li&gt;1 Tbsp sour cream (optional)&lt;/li&gt;
-  &lt;li&gt;1-2 cloves garlic, minced&lt;/li&gt;
-  &lt;li&gt;1/2 stick unsalted butter (1/4 cup, 2 ounces), softened to the point of being slightly melted&lt;/li&gt;
-  &lt;li&gt;1 loaf of French or Italian bread (I used Ciabatta)&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;4 oz shredded Mozzarella cheese (1 cup)&lt;br /&gt;
+8 oz shredded sharp cheddar cheese (about 2 cups)&lt;br /&gt;
+1/4 to 1/2 cup chopped green onion (to taste)&lt;br /&gt;
+1/4 cup mayonnaise&lt;br /&gt;
+1 Tbsp sour cream (optional)&lt;br /&gt;
+1-2 cloves garlic, minced&lt;br /&gt;
+1/2 stick unsalted butter (1/4 cup, 2 ounces), softened to the point of being slightly melted&lt;br /&gt;
+1 loaf of French or Italian bread (I used Ciabatta)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cheesy_bread/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Cheesy Bread
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/cheesy_bread/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;4 oz shredded Mozzarella cheese (1 cup)&lt;br /&gt;
+8 oz shredded sharp cheddar cheese (about 2 cups)&lt;br /&gt;
+1/4 to 1/2 cup chopped green onion (to taste)&lt;br /&gt;
+1/4 cup mayonnaise&lt;br /&gt;
+1 Tbsp sour cream (optional)&lt;br /&gt;
+1-2 cloves garlic, minced&lt;br /&gt;
+1/2 stick unsalted butter (1/4 cup, 2 ounces), softened to the point of being slightly melted&lt;br /&gt;
+1 loaf of French or Italian bread (I used Ciabatta)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cheesy_bread/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -228,17 +328,41 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;6 small to medium sized russet baking potatoes (total 3 pounds)&lt;/li&gt;
-  &lt;li&gt;Olive oil&lt;/li&gt;
-  &lt;li&gt;Canola oil or grapeseed oil&lt;/li&gt;
-  &lt;li&gt;Kosher salt&lt;/li&gt;
-  &lt;li&gt;Freshly ground pepper&lt;/li&gt;
-  &lt;li&gt;6 strips of bacon&lt;/li&gt;
-  &lt;li&gt;4 ounces grated cheddar cheese&lt;/li&gt;
-  &lt;li&gt;1/2 cup sour cream&lt;/li&gt;
-  &lt;li&gt;2 green onions, thinly sliced, including the greens of the onions&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;6 small to medium sized russet baking potatoes (total 3 pounds)&lt;br /&gt;
+Olive oil&lt;br /&gt;
+Canola oil or grapeseed oil&lt;br /&gt;
+Kosher salt&lt;br /&gt;
+Freshly ground pepper&lt;br /&gt;
+6 strips of bacon&lt;br /&gt;
+4 ounces grated cheddar cheese&lt;br /&gt;
+1/2 cup sour cream&lt;br /&gt;
+2 green onions, thinly sliced, including the greens of the onions&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/potato_skins/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Potato Skins
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/potato_skins/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;6 small to medium sized russet baking potatoes (total 3 pounds)&lt;br /&gt;
+Olive oil&lt;br /&gt;
+Canola oil or grapeseed oil&lt;br /&gt;
+Kosher salt&lt;br /&gt;
+Freshly ground pepper&lt;br /&gt;
+6 strips of bacon&lt;br /&gt;
+4 ounces grated cheddar cheese&lt;br /&gt;
+1/2 cup sour cream&lt;br /&gt;
+2 green onions, thinly sliced, including the greens of the onions&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/potato_skins/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -261,17 +385,41 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;2 pounds chicken wings&lt;/li&gt;
-  &lt;li&gt;1 Tbsp butter&lt;/li&gt;
-  &lt;li&gt;2 Tbsp grated onion (use small hole grater)&lt;/li&gt;
-  &lt;li&gt;1/2 cup bourbon whisky&lt;/li&gt;
-  &lt;li&gt;3/4 cup maple syrup&lt;/li&gt;
-  &lt;li&gt;2 Tbsp tomato paste&lt;/li&gt;
-  &lt;li&gt;2-inch sprig fresh rosemary (or 1 teaspoon dry)&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon black pepper&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2 pounds chicken wings&lt;br /&gt;
+1 Tbsp butter&lt;br /&gt;
+2 Tbsp grated onion (use small hole grater)&lt;br /&gt;
+1/2 cup bourbon whisky&lt;br /&gt;
+3/4 cup maple syrup&lt;br /&gt;
+2 Tbsp tomato paste&lt;br /&gt;
+2-inch sprig fresh rosemary (or 1 teaspoon dry)&lt;br /&gt;
+1/4 teaspoon salt&lt;br /&gt;
+1/4 teaspoon black pepper&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/bourbon_maple_glazed_chicken_wings/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Bourbon Maple Glazed Chicken Wings
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/bourbon_maple_glazed_chicken_wings/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2 pounds chicken wings&lt;br /&gt;
+1 Tbsp butter&lt;br /&gt;
+2 Tbsp grated onion (use small hole grater)&lt;br /&gt;
+1/2 cup bourbon whisky&lt;br /&gt;
+3/4 cup maple syrup&lt;br /&gt;
+2 Tbsp tomato paste&lt;br /&gt;
+2-inch sprig fresh rosemary (or 1 teaspoon dry)&lt;br /&gt;
+1/4 teaspoon salt&lt;br /&gt;
+1/4 teaspoon black pepper&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/bourbon_maple_glazed_chicken_wings/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -294,13 +442,33 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;1 clove garlic&lt;/li&gt;
-  &lt;li&gt;1 cup mayonnaise&lt;/li&gt;
-  &lt;li&gt;1 cup &lt;/li&gt;
-  &lt;li&gt;1 teaspoon balsamic vinegar&lt;/li&gt;
-  &lt;li&gt;1 fresh red bell pepper, minced&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 clove garlic&lt;br /&gt;
+1 cup mayonnaise&lt;br /&gt;
+1 cup &lt;br /&gt;
+1 teaspoon balsamic vinegar&lt;br /&gt;
+1 fresh red bell pepper, minced&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/roasted_red_bell_pepper_dip/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Roasted Red Bell Pepper Dip
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/roasted_red_bell_pepper_dip/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 clove garlic&lt;br /&gt;
+1 cup mayonnaise&lt;br /&gt;
+1 cup &lt;br /&gt;
+1 teaspoon balsamic vinegar&lt;br /&gt;
+1 fresh red bell pepper, minced&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/roasted_red_bell_pepper_dip/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -323,25 +491,57 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;2 Tbsp butter&lt;/li&gt;
-  &lt;li&gt;1 large yellow or white onion, peeled, grated (use the large holes of a box cheese grater)&lt;/li&gt;
-  &lt;li&gt;2/3 cup milk&lt;/li&gt;
-  &lt;li&gt;4-5 slices of bread, crusts removed, bread cut into pieces&lt;/li&gt;
-  &lt;li&gt;2 eggs&lt;/li&gt;
-  &lt;li&gt;1 pound ground pork&lt;/li&gt;
-  &lt;li&gt;1 1/2 pounds ground beef&lt;/li&gt;
-  &lt;li&gt;2 teaspoons kosher salt&lt;/li&gt;
-  &lt;li&gt;1 teaspoon freshly ground nutmeg&lt;/li&gt;
-  &lt;li&gt;1 teaspoon ground cardamom&lt;/li&gt;
-  &lt;li&gt;2 teaspoons black pepper&lt;/li&gt;
-  &lt;li&gt;6 Tbsp butter&lt;/li&gt;
-  &lt;li&gt;1/3 cup flour&lt;/li&gt;
-  &lt;li&gt;1 quart beef stock&lt;/li&gt;
-  &lt;li&gt;1/2 to 3/4 cup sour cream&lt;/li&gt;
-  &lt;li&gt;Salt&lt;/li&gt;
-  &lt;li&gt;2 to 4 Tbsp of Lingonberry, red currant, raspberry or cranberry jelly, less or more to taste (optional)&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2 Tbsp butter&lt;br /&gt;
+1 large yellow or white onion, peeled, grated (use the large holes of a box cheese grater)&lt;br /&gt;
+2/3 cup milk&lt;br /&gt;
+4-5 slices of bread, crusts removed, bread cut into pieces&lt;br /&gt;
+2 eggs&lt;br /&gt;
+1 pound ground pork&lt;br /&gt;
+1 1/2 pounds ground beef&lt;br /&gt;
+2 teaspoons kosher salt&lt;br /&gt;
+1 teaspoon freshly ground nutmeg&lt;br /&gt;
+1 teaspoon ground cardamom&lt;br /&gt;
+2 teaspoons black pepper&lt;br /&gt;
+6 Tbsp butter&lt;br /&gt;
+1/3 cup flour&lt;br /&gt;
+1 quart beef stock&lt;br /&gt;
+1/2 to 3/4 cup sour cream&lt;br /&gt;
+Salt&lt;br /&gt;
+2 to 4 Tbsp of Lingonberry, red currant, raspberry or cranberry jelly, less or more to taste (optional)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/swedish_meatballs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Swedish Meatballs
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/swedish_meatballs/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;2 Tbsp butter&lt;br /&gt;
+1 large yellow or white onion, peeled, grated (use the large holes of a box cheese grater)&lt;br /&gt;
+2/3 cup milk&lt;br /&gt;
+4-5 slices of bread, crusts removed, bread cut into pieces&lt;br /&gt;
+2 eggs&lt;br /&gt;
+1 pound ground pork&lt;br /&gt;
+1 1/2 pounds ground beef&lt;br /&gt;
+2 teaspoons kosher salt&lt;br /&gt;
+1 teaspoon freshly ground nutmeg&lt;br /&gt;
+1 teaspoon ground cardamom&lt;br /&gt;
+2 teaspoons black pepper&lt;br /&gt;
+6 Tbsp butter&lt;br /&gt;
+1/3 cup flour&lt;br /&gt;
+1 quart beef stock&lt;br /&gt;
+1/2 to 3/4 cup sour cream&lt;br /&gt;
+Salt&lt;br /&gt;
+2 to 4 Tbsp of Lingonberry, red currant, raspberry or cranberry jelly, less or more to taste (optional)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/swedish_meatballs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -385,17 +585,41 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;1 1/2 cups of fresh or frozen cranberries&lt;/li&gt;
-  &lt;li&gt;1/2 an apple, peeled, cored, roughly chopped&lt;/li&gt;
-  &lt;li&gt;1/2 jalapeño (or serrano) chile, seeds removed, roughly chopped (less or more to taste, depending on how hot the chile is and how hot you would like your salsa to be)&lt;/li&gt;
-  &lt;li&gt;2 green onions (scallions), chopped, including light green parts (about 1/4 cup)&lt;/li&gt;
-  &lt;li&gt;4 Tbsp sugar&lt;/li&gt;
-  &lt;li&gt;2 Tbsp chopped fresh cilantro&lt;/li&gt;
-  &lt;li&gt;1 Tbsp peeled chopped ginger&lt;/li&gt;
-  &lt;li&gt;1 Tbsp lime or lemon juice&lt;/li&gt;
-  &lt;li&gt;Dash of salt&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 1/2 cups of fresh or frozen cranberries&lt;br /&gt;
+1/2 an apple, peeled, cored, roughly chopped&lt;br /&gt;
+1/2 jalapeño (or serrano) chile, seeds removed, roughly chopped (less or more to taste, depending on how hot the chile is and how hot you would like your salsa to be)&lt;br /&gt;
+2 green onions (scallions), chopped, including light green parts (about 1/4 cup)&lt;br /&gt;
+4 Tbsp sugar&lt;br /&gt;
+2 Tbsp chopped fresh cilantro&lt;br /&gt;
+1 Tbsp peeled chopped ginger&lt;br /&gt;
+1 Tbsp lime or lemon juice&lt;br /&gt;
+Dash of salt&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cranberry_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Cranberry Salsa
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/cranberry_salsa/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 1/2 cups of fresh or frozen cranberries&lt;br /&gt;
+1/2 an apple, peeled, cored, roughly chopped&lt;br /&gt;
+1/2 jalapeño (or serrano) chile, seeds removed, roughly chopped (less or more to taste, depending on how hot the chile is and how hot you would like your salsa to be)&lt;br /&gt;
+2 green onions (scallions), chopped, including light green parts (about 1/4 cup)&lt;br /&gt;
+4 Tbsp sugar&lt;br /&gt;
+2 Tbsp chopped fresh cilantro&lt;br /&gt;
+1 Tbsp peeled chopped ginger&lt;br /&gt;
+1 Tbsp lime or lemon juice&lt;br /&gt;
+Dash of salt&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cranberry_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -502,20 +726,47 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;1 1/4 to 1 1/2 pounds chicken tenders&lt;/li&gt;
-  &lt;li&gt;1/2 cup buttermilk (can sub a scant half cup of milk that has been mixed with 1 1/2 teaspoons of vinegar or lemon juice)&lt;/li&gt;
-  &lt;li&gt;1 Tbsp orange marmalade&lt;/li&gt;
-  &lt;li&gt;1 teaspoon soy sauce&lt;/li&gt;
-  &lt;li&gt;1 1/4 cups panko breadcrumbs&lt;/li&gt;
-  &lt;li&gt;1/4 cup raw sesame seeds&lt;/li&gt;
-  &lt;li&gt;1 Tbsp olive oil&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon kosher salt&lt;/li&gt;
-  &lt;li&gt;1/2 cup sweet orange marmalade&lt;/li&gt;
-  &lt;li&gt;1 Tbsp soy sauce&lt;/li&gt;
-  &lt;li&gt;1 teaspoon sriracha hot sauce&lt;/li&gt;
-  &lt;li&gt;1 teaspoon seasoned rice vinegar&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 1/4 to 1 1/2 pounds chicken tenders&lt;br /&gt;
+1/2 cup buttermilk (can sub a scant half cup of milk that has been mixed with 1 1/2 teaspoons of vinegar or lemon juice)&lt;br /&gt;
+1 Tbsp orange marmalade&lt;br /&gt;
+1 teaspoon soy sauce&lt;br /&gt;
+1 1/4 cups panko breadcrumbs&lt;br /&gt;
+1/4 cup raw sesame seeds&lt;br /&gt;
+1 Tbsp olive oil&lt;br /&gt;
+1/2 teaspoon kosher salt&lt;br /&gt;
+1/2 cup sweet orange marmalade&lt;br /&gt;
+1 Tbsp soy sauce&lt;br /&gt;
+1 teaspoon sriracha hot sauce&lt;br /&gt;
+1 teaspoon seasoned rice vinegar&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Sesame Chicken Fingers With Spicy Orange Dipping Sauce
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;1 1/4 to 1 1/2 pounds chicken tenders&lt;br /&gt;
+1/2 cup buttermilk (can sub a scant half cup of milk that has been mixed with 1 1/2 teaspoons of vinegar or lemon juice)&lt;br /&gt;
+1 Tbsp orange marmalade&lt;br /&gt;
+1 teaspoon soy sauce&lt;br /&gt;
+1 1/4 cups panko breadcrumbs&lt;br /&gt;
+1/4 cup raw sesame seeds&lt;br /&gt;
+1 Tbsp olive oil&lt;br /&gt;
+1/2 teaspoon kosher salt&lt;br /&gt;
+1/2 cup sweet orange marmalade&lt;br /&gt;
+1 Tbsp soy sauce&lt;br /&gt;
+1 teaspoon sriracha hot sauce&lt;br /&gt;
+1 teaspoon seasoned rice vinegar&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -538,12 +789,31 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     
   </author>
   <content type="html">
-    &lt;ul&gt;
-  &lt;li&gt;One large, burrito-size (13-inch diameter or larger) flour tortilla&lt;/li&gt;
-  &lt;li&gt;1 Tbsp butter&lt;/li&gt;
-  &lt;li&gt;1/2 cup of grated cheddar cheese&lt;/li&gt;
-  &lt;li&gt;1 or 2 roasted green chiles, peeled, seeded, cut into strips (optional)&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;One large, burrito-size (13-inch diameter or larger) flour tortilla&lt;br /&gt;
+1 Tbsp butter&lt;br /&gt;
+1/2 cup of grated cheddar cheese&lt;br /&gt;
+1 or 2 roasted green chiles, peeled, seeded, cut into strips (optional)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sonoran_quesadilla/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.—
+layout: post
+title: Arizona Cheese Crisp
+excerpt: from www.simplyrecipes.com
+categories: articles
+tags: [www.simplyrecipes.com]
+link: http://www.simplyrecipes.com/recipes/sonoran_quesadilla/
+author: www.simplyrecipes.com
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;p&gt;One large, burrito-size (13-inch diameter or larger) flour tortilla&lt;br /&gt;
+1 Tbsp butter&lt;br /&gt;
+1/2 cup of grated cheddar cheese&lt;br /&gt;
+1 or 2 roasted green chiles, peeled, seeded, cut into strips (optional)&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe-1&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sonoran_quesadilla/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -569,43 +839,6 @@ Coarse salt and freshly ground black pepper to taste&lt;br /&gt;
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/09/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/blog/hello-world/" />
-  <id>http://appetizers.party/blog/hello-world</id>
-  <published>2014-08-08T21:39:55+02:00</published>
-  <updated>2014-08-08T21:39:55+02:00</updated>
-  <author>
-    <name>Appetizers.party</name>
-    <uri>http://appetizers.party</uri>
-    <email>contact@appetizers.party</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-heading&quot;&gt;Sample Heading&lt;/h2&gt;
-
-&lt;h3 id=&quot;sample-heading-2&quot;&gt;Sample Heading 2&lt;/h3&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
   </content>
 </entry>
 
