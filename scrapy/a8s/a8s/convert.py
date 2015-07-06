@@ -47,8 +47,7 @@ if __name__ == "__main__":
                 os.makedirs(source_dir)
             with codecs.open(os.path.join(source_dir,
                              item['slug'] + '.md'),
-                             'a+', 'utf-8') as article:
-                article.seek(0)
+                             'w+', 'utf-8') as article:
                 body = article.read().split('---\n')[-1].strip('\n')
                 article.seek(0)
                 article.write(TEMPLATE.format(title=item['title'].title(),
