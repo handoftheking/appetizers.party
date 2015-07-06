@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Appetizers.party</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
-<link rel="alternate" type="text/html" href="http://appetizers.party" />
-<updated>2015-07-06T22:48:21+02:00</updated>
-<id>http://appetizers.party/</id>
+<link rel="self" type="application/atom+xml" href="127.0.0.1:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="127.0.0.1:4000" />
+<updated>2015-07-06T23:12:54+02:00</updated>
+<id>127.0.0.1:4000/</id>
 <author>
   <name>Appetizers.party</name>
-  <uri>http://appetizers.party/</uri>
+  <uri>127.0.0.1:4000/</uri>
   <email>contact@appetizers.party</email>
 </author>
 
@@ -17,32 +17,32 @@
 
 <entry>
   <title type="html"><![CDATA[Grilled Garlic Shrimp Skewers]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/grilled_garlic_shrimp_skewers/" />
-  <id>http://appetizers.party/articles/grilled_garlic_shrimp_skewers</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/grilled_garlic_shrimp_skewers/" />
+  <id>127.0.0.1:4000/articles/grilled_garlic_shrimp_skewers</id>
   <published>2015-07-01T00:00:00+02:00</published>
   <updated>2015-07-01T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;1 pound 16-20 count large prawns, peeled and deveined (can still have tail on for presentation)&lt;br /&gt;
-Olive oil&lt;br /&gt;
-Salt&lt;br /&gt;
-3 Tbsp butter&lt;br /&gt;
-3 cloves garlic, minced&lt;br /&gt;
-1/4 teaspoon kosher salt&lt;br /&gt;
-1 teaspoon minced chives for garnish&lt;br /&gt;
-Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 pound 16-20 count large prawns, peeled and deveined (can still have tail on for presentation)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Olive oil&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;3 Tbsp butter&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;3 cloves garlic, minced&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 teaspoon kosher salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon minced chives for garnish&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/grilled_garlic_shrimp_skewers/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/grilled_garlic_shrimp_skewers/&quot;&gt;Grilled Garlic Shrimp Skewers&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/grilled_garlic_shrimp_skewers/&quot;&gt;Grilled Garlic Shrimp Skewers&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -51,13 +51,13 @@ Short bamboo skewers, about 20, soaked for 30 minutes in water before grilling&l
 
 <entry>
   <title type="html"><![CDATA[Crispy Frizzled Artichokes]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/crispy-frizzled-artichokes/" />
-  <id>http://appetizers.party/articles/crispy-frizzled-artichokes</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/crispy-frizzled-artichokes/" />
+  <id>127.0.0.1:4000/articles/crispy-frizzled-artichokes</id>
   <published>2015-06-01T00:00:00+02:00</published>
   <updated>2015-06-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
@@ -74,7 +74,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 &lt;p&gt;Go check the full recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/06/crispy-frizzled-artichokes/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/crispy-frizzled-artichokes/&quot;&gt;Crispy Frizzled Artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/crispy-frizzled-artichokes/&quot;&gt;Crispy Frizzled Artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -83,32 +83,32 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Fresh Tomato Salsa]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/fresh_tomato_salsa/" />
-  <id>http://appetizers.party/articles/fresh_tomato_salsa</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/fresh_tomato_salsa/" />
+  <id>127.0.0.1:4000/articles/fresh_tomato_salsa</id>
   <published>2015-05-01T00:00:00+02:00</published>
   <updated>2015-05-01T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed&lt;br /&gt;
-1/2 red onion&lt;br /&gt;
-2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste&lt;br /&gt;
-Juice of one lime&lt;br /&gt;
-1/2 cup chopped cilantro&lt;br /&gt;
-Salt and pepper to taste&lt;br /&gt;
-Pinch of dried oregano (crumble in your fingers before adding), more to taste&lt;br /&gt;
-Pinch of ground cumin, more to taste&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2-3 medium sized fresh tomatoes (from 1 lb to 1 1/2 lb), stems removed&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 red onion&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Juice of one lime&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup chopped cilantro&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Salt and pepper to taste&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Pinch of dried oregano (crumble in your fingers before adding), more to taste&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Pinch of ground cumin, more to taste&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/fresh_tomato_salsa/&quot;&gt;Fresh Tomato Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/fresh_tomato_salsa/&quot;&gt;Fresh Tomato Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -117,31 +117,31 @@ Pinch of ground cumin, more to taste&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Deviled Eggs]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/deviled_eggs/" />
-  <id>http://appetizers.party/articles/deviled_eggs</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/deviled_eggs/" />
+  <id>127.0.0.1:4000/articles/deviled_eggs</id>
   <published>2015-03-24T00:00:00+01:00</published>
   <updated>2015-03-24T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;1 dozen eggs&lt;br /&gt;
-2 teaspoons dijon mustard&lt;br /&gt;
-1/3 cup mayonnaise&lt;br /&gt;
-1 Tbsp minced shallot or onion&lt;br /&gt;
-1/4 teaspoon Tabasco sauce&lt;br /&gt;
-Salt and pepper&lt;br /&gt;
-Paprika&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 dozen eggs&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 teaspoons dijon mustard&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/3 cup mayonnaise&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp minced shallot or onion&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 teaspoon Tabasco sauce&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Salt and pepper&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Paprika&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/deviled_eggs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/deviled_eggs/&quot;&gt;Deviled Eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 24, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/deviled_eggs/&quot;&gt;Deviled Eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on March 24, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -150,19 +150,19 @@ Paprika&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Wild Mushroom Pâté]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/wild-mushroom-pate/" />
-  <id>http://appetizers.party/articles/wild-mushroom-pate</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/wild-mushroom-pate/" />
+  <id>127.0.0.1:4000/articles/wild-mushroom-pate</id>
   <published>2015-03-01T00:00:00+01:00</published>
   <updated>2015-03-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -171,32 +171,32 @@ Paprika&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Cheesy Bread]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/cheesy_bread/" />
-  <id>http://appetizers.party/articles/cheesy_bread</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/cheesy_bread/" />
+  <id>127.0.0.1:4000/articles/cheesy_bread</id>
   <published>2015-01-29T00:00:00+01:00</published>
   <updated>2015-01-29T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;4 oz shredded Mozzarella cheese (1 cup)&lt;br /&gt;
-8 oz shredded sharp cheddar cheese (about 2 cups)&lt;br /&gt;
-1/4 to 1/2 cup chopped green onion (to taste)&lt;br /&gt;
-1/4 cup mayonnaise&lt;br /&gt;
-1 Tbsp sour cream (optional)&lt;br /&gt;
-1-2 cloves garlic, minced&lt;br /&gt;
-1/2 stick unsalted butter (1/4 cup, 2 ounces), softened to the point of being slightly melted&lt;br /&gt;
-1 loaf of French or Italian bread (I used Ciabatta)&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;4 oz shredded Mozzarella cheese (1 cup)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;8 oz shredded sharp cheddar cheese (about 2 cups)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 to 1/2 cup chopped green onion (to taste)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 cup mayonnaise&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp sour cream (optional)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1-2 cloves garlic, minced&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 stick unsalted butter (1/4 cup, 2 ounces), softened to the point of being slightly melted&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 loaf of French or Italian bread (I used Ciabatta)&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cheesy_bread/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/cheesy_bread/&quot;&gt;Cheesy Bread&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/cheesy_bread/&quot;&gt;Cheesy Bread&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -205,33 +205,33 @@ Paprika&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Potato Skins]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/potato_skins/" />
-  <id>http://appetizers.party/articles/potato_skins</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/potato_skins/" />
+  <id>127.0.0.1:4000/articles/potato_skins</id>
   <published>2015-01-25T00:00:00+01:00</published>
   <updated>2015-01-25T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;6 small to medium sized russet baking potatoes (total 3 pounds)&lt;br /&gt;
-Olive oil&lt;br /&gt;
-Canola oil or grapeseed oil&lt;br /&gt;
-Kosher salt&lt;br /&gt;
-Freshly ground pepper&lt;br /&gt;
-6 strips of bacon&lt;br /&gt;
-4 ounces grated cheddar cheese&lt;br /&gt;
-1/2 cup sour cream&lt;br /&gt;
-2 green onions, thinly sliced, including the greens of the onions&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;6 small to medium sized russet baking potatoes (total 3 pounds)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Olive oil&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Canola oil or grapeseed oil&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Kosher salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Freshly ground pepper&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;6 strips of bacon&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;4 ounces grated cheddar cheese&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup sour cream&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 green onions, thinly sliced, including the greens of the onions&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/potato_skins/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/potato_skins/&quot;&gt;Potato Skins&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 25, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/potato_skins/&quot;&gt;Potato Skins&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 25, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -240,33 +240,33 @@ Freshly ground pepper&lt;br /&gt;
 
 <entry>
   <title type="html"><![CDATA[Bourbon Maple Glazed Chicken Wings]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings/" />
-  <id>http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/bourbon_maple_glazed_chicken_wings/" />
+  <id>127.0.0.1:4000/articles/bourbon_maple_glazed_chicken_wings</id>
   <published>2015-01-22T00:00:00+01:00</published>
   <updated>2015-01-22T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;2 pounds chicken wings&lt;br /&gt;
-1 Tbsp butter&lt;br /&gt;
-2 Tbsp grated onion (use small hole grater)&lt;br /&gt;
-1/2 cup bourbon whisky&lt;br /&gt;
-3/4 cup maple syrup&lt;br /&gt;
-2 Tbsp tomato paste&lt;br /&gt;
-2-inch sprig fresh rosemary (or 1 teaspoon dry)&lt;br /&gt;
-1/4 teaspoon salt&lt;br /&gt;
-1/4 teaspoon black pepper&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 pounds chicken wings&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp butter&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 Tbsp grated onion (use small hole grater)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup bourbon whisky&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;3/4 cup maple syrup&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 Tbsp tomato paste&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2-inch sprig fresh rosemary (or 1 teaspoon dry)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 teaspoon salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 teaspoon black pepper&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/bourbon_maple_glazed_chicken_wings/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings/&quot;&gt;Bourbon Maple Glazed Chicken Wings&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/bourbon_maple_glazed_chicken_wings/&quot;&gt;Bourbon Maple Glazed Chicken Wings&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -275,29 +275,29 @@ Freshly ground pepper&lt;br /&gt;
 
 <entry>
   <title type="html"><![CDATA[Roasted Red Bell Pepper Dip]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/roasted_red_bell_pepper_dip/" />
-  <id>http://appetizers.party/articles/roasted_red_bell_pepper_dip</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/roasted_red_bell_pepper_dip/" />
+  <id>127.0.0.1:4000/articles/roasted_red_bell_pepper_dip</id>
   <published>2014-12-22T00:00:00+01:00</published>
   <updated>2014-12-22T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;1 clove garlic&lt;br /&gt;
-1 cup mayonnaise&lt;br /&gt;
-1 cup &lt;br /&gt;
-1 teaspoon balsamic vinegar&lt;br /&gt;
-1 fresh red bell pepper, minced&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 clove garlic&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 cup mayonnaise&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 cup &lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon balsamic vinegar&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 fresh red bell pepper, minced&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/roasted_red_bell_pepper_dip/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted_red_bell_pepper_dip/&quot;&gt;Roasted Red Bell Pepper Dip&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 22, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/roasted_red_bell_pepper_dip/&quot;&gt;Roasted Red Bell Pepper Dip&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 22, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -306,41 +306,41 @@ Freshly ground pepper&lt;br /&gt;
 
 <entry>
   <title type="html"><![CDATA[Swedish Meatballs]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/swedish_meatballs/" />
-  <id>http://appetizers.party/articles/swedish_meatballs</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/swedish_meatballs/" />
+  <id>127.0.0.1:4000/articles/swedish_meatballs</id>
   <published>2014-12-02T00:00:00+01:00</published>
   <updated>2014-12-02T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;2 Tbsp butter&lt;br /&gt;
-1 large yellow or white onion, peeled, grated (use the large holes of a box cheese grater)&lt;br /&gt;
-2/3 cup milk&lt;br /&gt;
-4-5 slices of bread, crusts removed, bread cut into pieces&lt;br /&gt;
-2 eggs&lt;br /&gt;
-1 pound ground pork&lt;br /&gt;
-1 1/2 pounds ground beef&lt;br /&gt;
-2 teaspoons kosher salt&lt;br /&gt;
-1 teaspoon freshly ground nutmeg&lt;br /&gt;
-1 teaspoon ground cardamom&lt;br /&gt;
-2 teaspoons black pepper&lt;br /&gt;
-6 Tbsp butter&lt;br /&gt;
-1/3 cup flour&lt;br /&gt;
-1 quart beef stock&lt;br /&gt;
-1/2 to 3/4 cup sour cream&lt;br /&gt;
-Salt&lt;br /&gt;
-2 to 4 Tbsp of Lingonberry, red currant, raspberry or cranberry jelly, less or more to taste (optional)&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 Tbsp butter&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 large yellow or white onion, peeled, grated (use the large holes of a box cheese grater)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2/3 cup milk&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;4-5 slices of bread, crusts removed, bread cut into pieces&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 eggs&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 pound ground pork&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 1/2 pounds ground beef&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 teaspoons kosher salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon freshly ground nutmeg&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon ground cardamom&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 teaspoons black pepper&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;6 Tbsp butter&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/3 cup flour&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 quart beef stock&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 to 3/4 cup sour cream&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 to 4 Tbsp of Lingonberry, red currant, raspberry or cranberry jelly, less or more to taste (optional)&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/swedish_meatballs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/swedish_meatballs/&quot;&gt;Swedish Meatballs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 02, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/swedish_meatballs/&quot;&gt;Swedish Meatballs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 02, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -349,19 +349,19 @@ Salt&lt;br /&gt;
 
 <entry>
   <title type="html"><![CDATA[Roasted Grape And Olive Crostini]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/roasted-grape-and-olive-crostini/" />
-  <id>http://appetizers.party/articles/roasted-grape-and-olive-crostini</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/roasted-grape-and-olive-crostini/" />
+  <id>127.0.0.1:4000/articles/roasted-grape-and-olive-crostini</id>
   <published>2014-12-01T00:00:00+01:00</published>
   <updated>2014-12-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/12/roasted-grape-and-olive-crostini/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted-grape-and-olive-crostini/&quot;&gt;Roasted Grape And Olive Crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/roasted-grape-and-olive-crostini/&quot;&gt;Roasted Grape And Olive Crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -370,33 +370,33 @@ Salt&lt;br /&gt;
 
 <entry>
   <title type="html"><![CDATA[Cranberry Salsa]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/cranberry_salsa/" />
-  <id>http://appetizers.party/articles/cranberry_salsa</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/cranberry_salsa/" />
+  <id>127.0.0.1:4000/articles/cranberry_salsa</id>
   <published>2014-11-06T00:00:00+01:00</published>
   <updated>2014-11-06T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;1 1/2 cups of fresh or frozen cranberries&lt;br /&gt;
-1/2 an apple, peeled, cored, roughly chopped&lt;br /&gt;
-1/2 jalapeño (or serrano) chile, seeds removed, roughly chopped (less or more to taste, depending on how hot the chile is and how hot you would like your salsa to be)&lt;br /&gt;
-2 green onions (scallions), chopped, including light green parts (about 1/4 cup)&lt;br /&gt;
-4 Tbsp sugar&lt;br /&gt;
-2 Tbsp chopped fresh cilantro&lt;br /&gt;
-1 Tbsp peeled chopped ginger&lt;br /&gt;
-1 Tbsp lime or lemon juice&lt;br /&gt;
-Dash of salt&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 1/2 cups of fresh or frozen cranberries&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 an apple, peeled, cored, roughly chopped&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 jalapeño (or serrano) chile, seeds removed, roughly chopped (less or more to taste, depending on how hot the chile is and how hot you would like your salsa to be)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 green onions (scallions), chopped, including light green parts (about 1/4 cup)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;4 Tbsp sugar&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;2 Tbsp chopped fresh cilantro&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp peeled chopped ginger&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp lime or lemon juice&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;Dash of salt&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cranberry_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/cranberry_salsa/&quot;&gt;Cranberry Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 06, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/cranberry_salsa/&quot;&gt;Cranberry Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 06, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -405,19 +405,19 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Smoked Whitefish Dip With Horseradish]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/" />
-  <id>http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish/" />
+  <id>127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/smoked-whitefish-dip-with-horseradish/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;Smoked Whitefish Dip With Horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;Smoked Whitefish Dip With Horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -426,19 +426,19 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pretzel Parker House Rolls]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pretzel-parker-house-rolls/" />
-  <id>http://appetizers.party/articles/pretzel-parker-house-rolls</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/pretzel-parker-house-rolls/" />
+  <id>127.0.0.1:4000/articles/pretzel-parker-house-rolls</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pretzel-parker-house-rolls/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pretzel-parker-house-rolls/&quot;&gt;Pretzel Parker House Rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/pretzel-parker-house-rolls/&quot;&gt;Pretzel Parker House Rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -447,19 +447,19 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pickled Cabbage Salad]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pickled-cabbage-salad/" />
-  <id>http://appetizers.party/articles/pickled-cabbage-salad</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/pickled-cabbage-salad/" />
+  <id>127.0.0.1:4000/articles/pickled-cabbage-salad</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pickled-cabbage-salad/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pickled-cabbage-salad/&quot;&gt;Pickled Cabbage Salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/pickled-cabbage-salad/&quot;&gt;Pickled Cabbage Salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -468,19 +468,19 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Squash Toasts With Ricotta And Cider Vinegar]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
-  <id>http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
+  <id>127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
   <published>2014-10-01T00:00:00+02:00</published>
   <updated>2014-10-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/10/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;Squash Toasts With Ricotta And Cider Vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;Squash Toasts With Ricotta And Cider Vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -489,36 +489,36 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Sesame Chicken Fingers With Spicy Orange Dipping Sauce]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/" />
-  <id>http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/" />
+  <id>127.0.0.1:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce</id>
   <published>2014-09-23T00:00:00+02:00</published>
   <updated>2014-09-23T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;1 1/4 to 1 1/2 pounds chicken tenders&lt;br /&gt;
-1/2 cup buttermilk (can sub a scant half cup of milk that has been mixed with 1 1/2 teaspoons of vinegar or lemon juice)&lt;br /&gt;
-1 Tbsp orange marmalade&lt;br /&gt;
-1 teaspoon soy sauce&lt;br /&gt;
-1 1/4 cups panko breadcrumbs&lt;br /&gt;
-1/4 cup raw sesame seeds&lt;br /&gt;
-1 Tbsp olive oil&lt;br /&gt;
-1/2 teaspoon kosher salt&lt;br /&gt;
-1/2 cup sweet orange marmalade&lt;br /&gt;
-1 Tbsp soy sauce&lt;br /&gt;
-1 teaspoon sriracha hot sauce&lt;br /&gt;
-1 teaspoon seasoned rice vinegar&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 1/4 to 1 1/2 pounds chicken tenders&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup buttermilk (can sub a scant half cup of milk that has been mixed with 1 1/2 teaspoons of vinegar or lemon juice)&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp orange marmalade&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon soy sauce&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 1/4 cups panko breadcrumbs&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/4 cup raw sesame seeds&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp olive oil&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 teaspoon kosher salt&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup sweet orange marmalade&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp soy sauce&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon sriracha hot sauce&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 teaspoon seasoned rice vinegar&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;Sesame Chicken Fingers With Spicy Orange Dipping Sauce&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 23, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;Sesame Chicken Fingers With Spicy Orange Dipping Sauce&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 23, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -527,28 +527,28 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Arizona Cheese Crisp]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/sonoran_quesadilla/" />
-  <id>http://appetizers.party/articles/sonoran_quesadilla</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/sonoran_quesadilla/" />
+  <id>127.0.0.1:4000/articles/sonoran_quesadilla</id>
   <published>2014-09-06T00:00:00+02:00</published>
   <updated>2014-09-06T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;One large, burrito-size (13-inch diameter or larger) flour tortilla&lt;br /&gt;
-1 Tbsp butter&lt;br /&gt;
-1/2 cup of grated cheddar cheese&lt;br /&gt;
-1 or 2 roasted green chiles, peeled, seeded, cut into strips (optional)&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;One large, burrito-size (13-inch diameter or larger) flour tortilla&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 Tbsp butter&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1/2 cup of grated cheddar cheese&lt;/label&gt;
+  &lt;input type=&quot;checkbox&quot; /&gt;&lt;label&gt;1 or 2 roasted green chiles, peeled, seeded, cut into strips (optional)&lt;/label&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sonoran_quesadilla/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/sonoran_quesadilla/&quot;&gt;Arizona Cheese Crisp&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 06, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/sonoran_quesadilla/&quot;&gt;Arizona Cheese Crisp&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 06, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -557,19 +557,19 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Herbed Tomato And Roasted Garlic Tart]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/" />
-  <id>http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart/" />
+  <id>127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart</id>
   <published>2014-09-01T00:00:00+02:00</published>
   <updated>2014-09-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/09/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -578,13 +578,13 @@ Dash of salt&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://appetizers.party/blog/hello-world/" />
-  <id>http://appetizers.party/blog/hello-world</id>
+  <link rel="alternate" type="text/html" href="127.0.0.1:4000/blog/hello-world/" />
+  <id>127.0.0.1:4000/blog/hello-world</id>
   <published>2014-08-08T21:39:55+02:00</published>
   <updated>2014-08-08T21:39:55+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://appetizers.party</uri>
+    <uri>127.0.0.1:4000</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
@@ -606,7 +606,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;127.0.0.1:4000/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;127.0.0.1:4000&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
   </content>
 </entry>
 
