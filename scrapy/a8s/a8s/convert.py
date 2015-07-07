@@ -31,12 +31,11 @@ def get_content(item):
     if 'ingredients' in item:
         res += '### Ingredients\n\n'
         for x in item['ingredients']:
-            res += '  <input type="checkbox"><label>%s</label>\n' % x
+            res += '  %s\n' % x
         res += '\n\n### Recipe\n\n'
     res += 'Go check the recipe instructions on [%s](%s).' % \
         (item['source'], item['link'])
     return res
-
 
 
 if __name__ == "__main__":
