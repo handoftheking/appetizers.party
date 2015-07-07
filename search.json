@@ -3,7 +3,7 @@
   
     {
       "title"			: "Grilled Garlic Shrimp Skewers",
-      "link"			: "http://localhost:4000/articles/grilled_garlic_shrimp_skewers/",
+      "link"			: "http://appetizers.party/articles/grilled_garlic_shrimp_skewers/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Crispy Frizzled Artichokes",
-      "link"			: "http://localhost:4000/articles/crispy-frizzled-artichokes/",
+      "link"			: "http://appetizers.party/articles/crispy-frizzled-artichokes/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Fresh Tomato Salsa",
-      "link"			: "http://localhost:4000/articles/fresh_tomato_salsa/",
+      "link"			: "http://appetizers.party/articles/fresh_tomato_salsa/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Deviled Eggs",
-      "link"			: "http://localhost:4000/articles/deviled_eggs/",
+      "link"			: "http://appetizers.party/articles/deviled_eggs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "Wild Mushroom Pâté",
-      "link"			: "http://localhost:4000/articles/wild-mushroom-pate/",
+      "link"			: "http://appetizers.party/articles/wild-mushroom-pate/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "Cheesy Bread",
-      "link"			: "http://localhost:4000/articles/cheesy_bread/",
+      "link"			: "http://appetizers.party/articles/cheesy_bread/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "Potato Skins",
-      "link"			: "http://localhost:4000/articles/potato_skins/",
+      "link"			: "http://appetizers.party/articles/potato_skins/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "Bourbon Maple Glazed Chicken Wings",
-      "link"			: "http://localhost:4000/articles/bourbon_maple_glazed_chicken_wings/",
+      "link"			: "http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -67,7 +67,7 @@
   
     ,{
       "title"			: "Roasted Red Bell Pepper Dip",
-      "link"			: "http://localhost:4000/articles/roasted_red_bell_pepper_dip/",
+      "link"			: "http://appetizers.party/articles/roasted_red_bell_pepper_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -75,7 +75,7 @@
   
     ,{
       "title"			: "Swedish Meatballs",
-      "link"			: "http://localhost:4000/articles/swedish_meatballs/",
+      "link"			: "http://appetizers.party/articles/swedish_meatballs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -83,7 +83,7 @@
   
     ,{
       "title"			: "Roasted Grape And Olive Crostini",
-      "link"			: "http://localhost:4000/articles/roasted-grape-and-olive-crostini/",
+      "link"			: "http://appetizers.party/articles/roasted-grape-and-olive-crostini/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -91,7 +91,7 @@
   
     ,{
       "title"			: "Cranberry Salsa",
-      "link"			: "http://localhost:4000/articles/cranberry_salsa/",
+      "link"			: "http://appetizers.party/articles/cranberry_salsa/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -99,7 +99,7 @@
   
     ,{
       "title"			: "Smoked Whitefish Dip With Horseradish",
-      "link"			: "http://localhost:4000/articles/smoked-whitefish-dip-with-horseradish/",
+      "link"			: "http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -107,7 +107,7 @@
   
     ,{
       "title"			: "Pretzel Parker House Rolls",
-      "link"			: "http://localhost:4000/articles/pretzel-parker-house-rolls/",
+      "link"			: "http://appetizers.party/articles/pretzel-parker-house-rolls/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -115,7 +115,7 @@
   
     ,{
       "title"			: "Pickled Cabbage Salad",
-      "link"			: "http://localhost:4000/articles/pickled-cabbage-salad/",
+      "link"			: "http://appetizers.party/articles/pickled-cabbage-salad/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -123,7 +123,7 @@
   
     ,{
       "title"			: "Squash Toasts With Ricotta And Cider Vinegar",
-      "link"			: "http://localhost:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/",
+      "link"			: "http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -131,7 +131,7 @@
   
     ,{
       "title"			: "Sesame Chicken Fingers With Spicy Orange Dipping Sauce",
-      "link"			: "http://localhost:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/",
+      "link"			: "http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -139,7 +139,7 @@
   
     ,{
       "title"			: "Arizona Cheese Crisp",
-      "link"			: "http://localhost:4000/articles/sonoran_quesadilla/",
+      "link"			: "http://appetizers.party/articles/sonoran_quesadilla/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -147,7 +147,7 @@
   
     ,{
       "title"			: "Herbed Tomato And Roasted Garlic Tart",
-      "link"			: "http://localhost:4000/articles/herbed-tomato-and-roasted-garlic-tart/",
+      "link"			: "http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -155,7 +155,7 @@
   
     ,{
       "title"			: "Hello World",
-      "link"			: "http://localhost:4000/blog/hello-world/",
+      "link"			: "http://appetizers.party/blog/hello-world/",
       "excerpt"		: ""
     }
   
@@ -163,7 +163,7 @@
   
     ,{
       "title"			: "Bruschetta With Tomato And Basil",
-      "link"			: "http://localhost:4000/articles/bruschetta_with_tomato_and_basil/",
+      "link"			: "http://appetizers.party/articles/bruschetta_with_tomato_and_basil/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -171,7 +171,7 @@
   
     ,{
       "title"			: "Squash Blossom Quesadillas",
-      "link"			: "http://localhost:4000/articles/squash_blossom_quesadillas/",
+      "link"			: "http://appetizers.party/articles/squash_blossom_quesadillas/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -179,7 +179,7 @@
   
     ,{
       "title"			: "Nancy’S Chopped Salad",
-      "link"			: "http://localhost:4000/articles/nancys-chopped-salad/",
+      "link"			: "http://appetizers.party/articles/nancys-chopped-salad/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -187,7 +187,7 @@
   
     ,{
       "title"			: "Grilled Skirt Steak Skewers",
-      "link"			: "http://localhost:4000/articles/grilled_skirt_steak_skewers/",
+      "link"			: "http://appetizers.party/articles/grilled_skirt_steak_skewers/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -195,7 +195,7 @@
   
     ,{
       "title"			: "Perfect Guacamole",
-      "link"			: "http://localhost:4000/articles/perfect_guacamole/",
+      "link"			: "http://appetizers.party/articles/perfect_guacamole/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -203,7 +203,7 @@
   
     ,{
       "title"			: "Eggs Mimosa With Artichoke Tapenade",
-      "link"			: "http://localhost:4000/articles/eggs_mimosa_with_artichoke_tapenade/",
+      "link"			: "http://appetizers.party/articles/eggs_mimosa_with_artichoke_tapenade/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -211,7 +211,7 @@
   
     ,{
       "title"			: "Avocado Cup Salads, Two Ways",
-      "link"			: "http://localhost:4000/articles/avocado-cup-salads-two-ways/",
+      "link"			: "http://appetizers.party/articles/avocado-cup-salads-two-ways/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -219,7 +219,7 @@
   
     ,{
       "title"			: "Asparagus-Stuffed Eggs",
-      "link"			: "http://localhost:4000/articles/asparagus-stuffed-eggs/",
+      "link"			: "http://appetizers.party/articles/asparagus-stuffed-eggs/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -227,7 +227,7 @@
   
     ,{
       "title"			: "Guacamole Deviled Eggs",
-      "link"			: "http://localhost:4000/articles/guacamole_deviled_eggs/",
+      "link"			: "http://appetizers.party/articles/guacamole_deviled_eggs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -235,7 +235,7 @@
   
     ,{
       "title"			: "Turkey And Mushroom Meatballs",
-      "link"			: "http://localhost:4000/articles/turkey_mushroom_meatballs/",
+      "link"			: "http://appetizers.party/articles/turkey_mushroom_meatballs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -243,7 +243,7 @@
   
     ,{
       "title"			: "Crab Cakes With Ginger And Lime",
-      "link"			: "http://localhost:4000/articles/crab_cakes_with_ginger_and_lime/",
+      "link"			: "http://appetizers.party/articles/crab_cakes_with_ginger_and_lime/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -251,7 +251,7 @@
   
     ,{
       "title"			: "Warm Lentil And Potato Salad",
-      "link"			: "http://localhost:4000/articles/warm-lentil-and-potato-salad/",
+      "link"			: "http://appetizers.party/articles/warm-lentil-and-potato-salad/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -259,7 +259,7 @@
   
     ,{
       "title"			: "Parmesan Broth With Kale And White Beans",
-      "link"			: "http://localhost:4000/articles/parmesan-broth-with-kale-and-white-beans/",
+      "link"			: "http://appetizers.party/articles/parmesan-broth-with-kale-and-white-beans/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -267,7 +267,7 @@
   
     ,{
       "title"			: "Garlicky Party Bread With Cheese And Herbs",
-      "link"			: "http://localhost:4000/articles/garlicky-party-bread-with-cheese-and-herbs/",
+      "link"			: "http://appetizers.party/articles/garlicky-party-bread-with-cheese-and-herbs/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -275,7 +275,7 @@
   
     ,{
       "title"			: "Curried Chicken Salad With Endive",
-      "link"			: "http://localhost:4000/articles/curried_chicken_salad_with_endive/",
+      "link"			: "http://appetizers.party/articles/curried_chicken_salad_with_endive/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -283,7 +283,7 @@
   
     ,{
       "title"			: "Burst Tomato Galette With Corn And Zucchini",
-      "link"			: "http://localhost:4000/articles/burst-tomato-galette-with-corn-and-zucchini/",
+      "link"			: "http://appetizers.party/articles/burst-tomato-galette-with-corn-and-zucchini/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -291,7 +291,7 @@
   
     ,{
       "title"			: "Spicy Turkey And Zucchini Burger",
-      "link"			: "http://localhost:4000/articles/spicy_turkey_and_zucchini_burger/",
+      "link"			: "http://appetizers.party/articles/spicy_turkey_and_zucchini_burger/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -299,7 +299,7 @@
   
     ,{
       "title"			: "Grilled Bacon Salad With Arugula And Balsamic",
-      "link"			: "http://localhost:4000/articles/grilled-bacon-salad-with-arugula-and-balsamic/",
+      "link"			: "http://appetizers.party/articles/grilled-bacon-salad-with-arugula-and-balsamic/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -307,7 +307,7 @@
   
     ,{
       "title"			: "Mexican Shrimp Cocktail",
-      "link"			: "http://localhost:4000/articles/mexican_shrimp_cocktail/",
+      "link"			: "http://appetizers.party/articles/mexican_shrimp_cocktail/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -315,7 +315,7 @@
   
     ,{
       "title"			: "Japanese Vegetable Pancakes",
-      "link"			: "http://localhost:4000/articles/japanese-cabbage-and-vegetable-pancakes/",
+      "link"			: "http://appetizers.party/articles/japanese-cabbage-and-vegetable-pancakes/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -323,7 +323,7 @@
   
     ,{
       "title"			: "Old Bay Chicken Wings",
-      "link"			: "http://localhost:4000/articles/old_bay_chicken_wings/",
+      "link"			: "http://appetizers.party/articles/old_bay_chicken_wings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -331,7 +331,7 @@
   
     ,{
       "title"			: "Buffalo Wings",
-      "link"			: "http://localhost:4000/articles/buffalo_wings/",
+      "link"			: "http://appetizers.party/articles/buffalo_wings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -339,7 +339,7 @@
   
     ,{
       "title"			: "Artichoke Lemon Dip",
-      "link"			: "http://localhost:4000/articles/artichoke_lemon_dip/",
+      "link"			: "http://appetizers.party/articles/artichoke_lemon_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -347,7 +347,7 @@
   
     ,{
       "title"			: "Salmon Mousse",
-      "link"			: "http://localhost:4000/articles/salmon_mousse/",
+      "link"			: "http://appetizers.party/articles/salmon_mousse/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -355,7 +355,7 @@
   
     ,{
       "title"			: "Boursin Stuffed Mushrooms",
-      "link"			: "http://localhost:4000/articles/boursin_stuffed_mushrooms/",
+      "link"			: "http://appetizers.party/articles/boursin_stuffed_mushrooms/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -363,7 +363,7 @@
   
     ,{
       "title"			: "Fromage Fort",
-      "link"			: "http://localhost:4000/articles/fromage-fort/",
+      "link"			: "http://appetizers.party/articles/fromage-fort/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -371,7 +371,7 @@
   
     ,{
       "title"			: "Cauliflower-Feta Fritters With Pomegranate",
-      "link"			: "http://localhost:4000/articles/cauliflower-feta-fritters-with-pomegranate/",
+      "link"			: "http://appetizers.party/articles/cauliflower-feta-fritters-with-pomegranate/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -379,7 +379,7 @@
   
     ,{
       "title"			: "Tomatoes On Toast",
-      "link"			: "http://localhost:4000/articles/tomatoes_on_toast/",
+      "link"			: "http://appetizers.party/articles/tomatoes_on_toast/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -387,7 +387,7 @@
   
     ,{
       "title"			: "Mediterranean Baked Feta With Tomatoes",
-      "link"			: "http://localhost:4000/articles/mediterranean-baked-feta-with-tomatoes/",
+      "link"			: "http://appetizers.party/articles/mediterranean-baked-feta-with-tomatoes/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -395,7 +395,7 @@
   
     ,{
       "title"			: "Grilled Artichokes",
-      "link"			: "http://localhost:4000/articles/grilled_artichokes/",
+      "link"			: "http://appetizers.party/articles/grilled_artichokes/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -403,7 +403,7 @@
   
     ,{
       "title"			: "Asparagus With Almonds And Yogurt Dressing",
-      "link"			: "http://localhost:4000/articles/asparagus-with-almonds-and-yogurt-dressing/",
+      "link"			: "http://appetizers.party/articles/asparagus-with-almonds-and-yogurt-dressing/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -411,7 +411,7 @@
   
     ,{
       "title"			: "Skillet Tortilla Pizza",
-      "link"			: "http://localhost:4000/articles/skillet_tortilla_pizza/",
+      "link"			: "http://appetizers.party/articles/skillet_tortilla_pizza/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -419,7 +419,7 @@
   
     ,{
       "title"			: "Colcannon Cakes",
-      "link"			: "http://localhost:4000/articles/colcannon_cakes/",
+      "link"			: "http://appetizers.party/articles/colcannon_cakes/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -427,7 +427,7 @@
   
     ,{
       "title"			: "Caramelized Onion Dip",
-      "link"			: "http://localhost:4000/articles/caramelized_onion_dip/",
+      "link"			: "http://appetizers.party/articles/caramelized_onion_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -435,7 +435,7 @@
   
     ,{
       "title"			: "Edamame Dip",
-      "link"			: "http://localhost:4000/articles/edamame_dip/",
+      "link"			: "http://appetizers.party/articles/edamame_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -443,7 +443,7 @@
   
     ,{
       "title"			: "Chicken Liver Pâté",
-      "link"			: "http://localhost:4000/articles/chicken_liver_pate/",
+      "link"			: "http://appetizers.party/articles/chicken_liver_pate/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -451,7 +451,7 @@
   
     ,{
       "title"			: "Caramelized Onion Tart With Gorgonzola And Brie",
-      "link"			: "http://localhost:4000/articles/caramelized_onion_tart_with_gorgonzola_and_brie/",
+      "link"			: "http://appetizers.party/articles/caramelized_onion_tart_with_gorgonzola_and_brie/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -459,7 +459,7 @@
   
     ,{
       "title"			: "Cranberry Glazed Turkey Meatballs",
-      "link"			: "http://localhost:4000/articles/cranberry_glazed_turkey_meatballs/",
+      "link"			: "http://appetizers.party/articles/cranberry_glazed_turkey_meatballs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -467,7 +467,7 @@
   
     ,{
       "title"			: "Shrimp Dip",
-      "link"			: "http://localhost:4000/articles/shrimp_dip/",
+      "link"			: "http://appetizers.party/articles/shrimp_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -475,7 +475,7 @@
   
     ,{
       "title"			: "Scallion Meatballs With Soy-Ginger Glaze",
-      "link"			: "http://localhost:4000/articles/scallion-meatballs-with-soy-ginger-glaze/",
+      "link"			: "http://appetizers.party/articles/scallion-meatballs-with-soy-ginger-glaze/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -483,7 +483,7 @@
   
     ,{
       "title"			: "Parsnip Latkes With Horseradish And Dill",
-      "link"			: "http://localhost:4000/articles/parsnip-latkes-with-horseradish-and-dill/",
+      "link"			: "http://appetizers.party/articles/parsnip-latkes-with-horseradish-and-dill/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -491,7 +491,7 @@
   
     ,{
       "title"			: "Caesar Salad Deviled Eggs",
-      "link"			: "http://localhost:4000/articles/caesar-salad-deviled-eggs/",
+      "link"			: "http://appetizers.party/articles/caesar-salad-deviled-eggs/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -499,7 +499,7 @@
   
     ,{
       "title"			: "Sardine Rillettes",
-      "link"			: "http://localhost:4000/articles/sardine_rillettes/",
+      "link"			: "http://appetizers.party/articles/sardine_rillettes/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -507,7 +507,7 @@
   
     ,{
       "title"			: "Spanish Roasted Potatoes With Tomato Sauce",
-      "link"			: "http://localhost:4000/articles/spanish_roasted_potatoes_with_tomato_sauce/",
+      "link"			: "http://appetizers.party/articles/spanish_roasted_potatoes_with_tomato_sauce/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -515,7 +515,7 @@
   
     ,{
       "title"			: "Eggplant Dip (Baba Ghanouj)",
-      "link"			: "http://localhost:4000/articles/eggplant_dip_baba_ghanouj/",
+      "link"			: "http://appetizers.party/articles/eggplant_dip_baba_ghanouj/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -523,7 +523,7 @@
   
     ,{
       "title"			: "Roasted Eggplant With Tomatoes And Mint",
-      "link"			: "http://localhost:4000/articles/roasted-eggplant-with-tomatoes-and-mint/",
+      "link"			: "http://appetizers.party/articles/roasted-eggplant-with-tomatoes-and-mint/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -531,7 +531,7 @@
   
     ,{
       "title"			: "Basil Hummus",
-      "link"			: "http://localhost:4000/articles/basil_hummus/",
+      "link"			: "http://appetizers.party/articles/basil_hummus/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -539,7 +539,7 @@
   
     ,{
       "title"			: "Zucchini Fritters",
-      "link"			: "http://localhost:4000/articles/zucchini-fritters/",
+      "link"			: "http://appetizers.party/articles/zucchini-fritters/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -547,7 +547,7 @@
   
     ,{
       "title"			: "Caponata, Eggplant Relish",
-      "link"			: "http://localhost:4000/articles/caponata_eggplant_relish/",
+      "link"			: "http://appetizers.party/articles/caponata_eggplant_relish/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -555,7 +555,7 @@
   
     ,{
       "title"			: "Smoky Paprika Shrimp Skewers",
-      "link"			: "http://localhost:4000/articles/smoky_paprika_shrimp_skewers/",
+      "link"			: "http://appetizers.party/articles/smoky_paprika_shrimp_skewers/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -563,7 +563,7 @@
   
     ,{
       "title"			: "Flatbreads With Honey, Thyme And Sea Salt",
-      "link"			: "http://localhost:4000/articles/flatbreads-with-honey-thyme-and-sea-salt/",
+      "link"			: "http://appetizers.party/articles/flatbreads-with-honey-thyme-and-sea-salt/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -571,7 +571,7 @@
   
     ,{
       "title"			: "Barbecued Buffalo Wings",
-      "link"			: "http://localhost:4000/articles/barbecued_buffalo_wings/",
+      "link"			: "http://appetizers.party/articles/barbecued_buffalo_wings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -579,7 +579,7 @@
   
     ,{
       "title"			: "Rich Homemade Ricotta",
-      "link"			: "http://localhost:4000/articles/rich-homemade-ricotta/",
+      "link"			: "http://appetizers.party/articles/rich-homemade-ricotta/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -587,7 +587,7 @@
   
     ,{
       "title"			: "Curried Egg Salad With Mango Chutney",
-      "link"			: "http://localhost:4000/articles/curried_egg_salad_with_mango_chutney/",
+      "link"			: "http://appetizers.party/articles/curried_egg_salad_with_mango_chutney/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -595,7 +595,7 @@
   
     ,{
       "title"			: "Leek Toasts With Blue Cheese",
-      "link"			: "http://localhost:4000/articles/leeks-toasts-with-blue-cheese/",
+      "link"			: "http://appetizers.party/articles/leeks-toasts-with-blue-cheese/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -603,7 +603,7 @@
   
     ,{
       "title"			: "Pineapple Glazed Ham Balls",
-      "link"			: "http://localhost:4000/articles/pineapple_glazed_ham_balls/",
+      "link"			: "http://appetizers.party/articles/pineapple_glazed_ham_balls/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -611,7 +611,7 @@
   
     ,{
       "title"			: "Baked Stuffed Jalapeños",
-      "link"			: "http://localhost:4000/articles/baked_stuffed_jalapenos/",
+      "link"			: "http://appetizers.party/articles/baked_stuffed_jalapenos/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -619,7 +619,7 @@
   
     ,{
       "title"			: "Tempura Squid",
-      "link"			: "http://localhost:4000/articles/tempura_squid/",
+      "link"			: "http://appetizers.party/articles/tempura_squid/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -627,7 +627,7 @@
   
     ,{
       "title"			: "Pizza With Bacon, Onions And Cream",
-      "link"			: "http://localhost:4000/articles/pizza-with-bacon-onions-and-cream/",
+      "link"			: "http://appetizers.party/articles/pizza-with-bacon-onions-and-cream/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -635,7 +635,7 @@
   
     ,{
       "title"			: "Classic Stuffed Mushrooms",
-      "link"			: "http://localhost:4000/articles/classic_stuffed_mushrooms/",
+      "link"			: "http://appetizers.party/articles/classic_stuffed_mushrooms/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -643,7 +643,7 @@
   
     ,{
       "title"			: "Garlic Butter Roasted Mushrooms",
-      "link"			: "http://localhost:4000/articles/garlic-butter-roasted-mushrooms/",
+      "link"			: "http://appetizers.party/articles/garlic-butter-roasted-mushrooms/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -651,7 +651,7 @@
   
     ,{
       "title"			: "Broiled Mussels",
-      "link"			: "http://localhost:4000/articles/broiled-mussels/",
+      "link"			: "http://appetizers.party/articles/broiled-mussels/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -659,7 +659,7 @@
   
     ,{
       "title"			: "Angels On Horseback",
-      "link"			: "http://localhost:4000/articles/angels_on_horseback/",
+      "link"			: "http://appetizers.party/articles/angels_on_horseback/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -667,7 +667,7 @@
   
     ,{
       "title"			: "Crushed Peas With Smoky Sesame Dressing",
-      "link"			: "http://localhost:4000/articles/crushed-peas-with-smoky-sesame-dressing/",
+      "link"			: "http://appetizers.party/articles/crushed-peas-with-smoky-sesame-dressing/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -675,7 +675,7 @@
   
     ,{
       "title"			: "Seared Scallops With Asparagus Sauce",
-      "link"			: "http://localhost:4000/articles/sea_scallops_with_asparagus_sauce/",
+      "link"			: "http://appetizers.party/articles/sea_scallops_with_asparagus_sauce/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -683,7 +683,7 @@
   
     ,{
       "title"			: "Spinach And Chickpeas",
-      "link"			: "http://localhost:4000/articles/spinach-and-chickpeas/",
+      "link"			: "http://appetizers.party/articles/spinach-and-chickpeas/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -691,7 +691,7 @@
   
     ,{
       "title"			: "Beet Hummus",
-      "link"			: "http://localhost:4000/articles/beet_hummus/",
+      "link"			: "http://appetizers.party/articles/beet_hummus/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -699,7 +699,7 @@
   
     ,{
       "title"			: "Cheddar Cheese Puffs",
-      "link"			: "http://localhost:4000/articles/cheddar_cheese_puffs/",
+      "link"			: "http://appetizers.party/articles/cheddar_cheese_puffs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -707,7 +707,7 @@
   
     ,{
       "title"			: "Grilled Oysters",
-      "link"			: "http://localhost:4000/articles/grilled_oysters/",
+      "link"			: "http://appetizers.party/articles/grilled_oysters/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -715,7 +715,7 @@
   
     ,{
       "title"			: "Walnut Pesto",
-      "link"			: "http://localhost:4000/articles/walnut-pesto/",
+      "link"			: "http://appetizers.party/articles/walnut-pesto/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -723,7 +723,7 @@
   
     ,{
       "title"			: "Parmesan Cream Crackers",
-      "link"			: "http://localhost:4000/articles/parmesan-cream-crackers/",
+      "link"			: "http://appetizers.party/articles/parmesan-cream-crackers/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -731,7 +731,7 @@
   
     ,{
       "title"			: "Creamed Mushrooms On Chive Butter Toast",
-      "link"			: "http://localhost:4000/articles/creamed-mushrooms-on-chive-butter-toast/",
+      "link"			: "http://appetizers.party/articles/creamed-mushrooms-on-chive-butter-toast/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -739,7 +739,7 @@
   
     ,{
       "title"			: "Apple Walnut Gorgonzola Rustic Tart",
-      "link"			: "http://localhost:4000/articles/apple_walnut_gorgonzola_rustic_tart/",
+      "link"			: "http://appetizers.party/articles/apple_walnut_gorgonzola_rustic_tart/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -747,7 +747,7 @@
   
     ,{
       "title"			: "Baked Chicken Meatballs",
-      "link"			: "http://localhost:4000/articles/baked-chicken-meatballs/",
+      "link"			: "http://appetizers.party/articles/baked-chicken-meatballs/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -755,7 +755,7 @@
   
     ,{
       "title"			: "Ceviche",
-      "link"			: "http://localhost:4000/articles/ceviche/",
+      "link"			: "http://appetizers.party/articles/ceviche/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -763,7 +763,7 @@
   
     ,{
       "title"			: "Shrimp Cocktail",
-      "link"			: "http://localhost:4000/articles/shrimp_cocktail/",
+      "link"			: "http://appetizers.party/articles/shrimp_cocktail/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -771,7 +771,7 @@
   
     ,{
       "title"			: "Apple Walnut Gorgonzola Turnovers",
-      "link"			: "http://localhost:4000/articles/apple_walnut_gorgonzola_turnovers/",
+      "link"			: "http://appetizers.party/articles/apple_walnut_gorgonzola_turnovers/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -779,7 +779,7 @@
   
     ,{
       "title"			: "Spanakopita Triangles + Then Some",
-      "link"			: "http://localhost:4000/articles/spanakopita-triangles-then-some/",
+      "link"			: "http://appetizers.party/articles/spanakopita-triangles-then-some/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -787,7 +787,7 @@
   
     ,{
       "title"			: "Cheese Straws",
-      "link"			: "http://localhost:4000/articles/cheese-straws/",
+      "link"			: "http://appetizers.party/articles/cheese-straws/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -795,7 +795,7 @@
   
     ,{
       "title"			: "Pacific Black Cod Escabeche",
-      "link"			: "http://localhost:4000/articles/pacific_black_cod_escabeche/",
+      "link"			: "http://appetizers.party/articles/pacific_black_cod_escabeche/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -803,7 +803,7 @@
   
     ,{
       "title"			: "Pickled Grapes With Cinnamon And Black Pepper",
-      "link"			: "http://localhost:4000/articles/pickled-grapes-with-cinnamon-and-black-pepper/",
+      "link"			: "http://appetizers.party/articles/pickled-grapes-with-cinnamon-and-black-pepper/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -811,7 +811,7 @@
   
     ,{
       "title"			: "Artichoke-Olive Crostini",
-      "link"			: "http://localhost:4000/articles/artichoke-olive-crostini/",
+      "link"			: "http://appetizers.party/articles/artichoke-olive-crostini/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -819,7 +819,7 @@
   
     ,{
       "title"			: "Spicy Chicken Nuggets (Chicharrones De Pollo)",
-      "link"			: "http://localhost:4000/articles/spicy_chicken_nuggets_chicharrones_de_pollo/",
+      "link"			: "http://appetizers.party/articles/spicy_chicken_nuggets_chicharrones_de_pollo/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -827,7 +827,7 @@
   
     ,{
       "title"			: "Crab Fondue",
-      "link"			: "http://localhost:4000/articles/crab_fondue/",
+      "link"			: "http://appetizers.party/articles/crab_fondue/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -835,7 +835,7 @@
   
     ,{
       "title"			: "Baked Brie",
-      "link"			: "http://localhost:4000/articles/baked_brie/",
+      "link"			: "http://appetizers.party/articles/baked_brie/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -843,7 +843,7 @@
   
     ,{
       "title"			: "Smoked Salmon And Goat Cheese Toasts",
-      "link"			: "http://localhost:4000/articles/smoked_salmon_and_goat_cheese_toasts/",
+      "link"			: "http://appetizers.party/articles/smoked_salmon_and_goat_cheese_toasts/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -851,7 +851,7 @@
   
     ,{
       "title"			: "How To Prepare A Cheese Board",
-      "link"			: "http://localhost:4000/articles/how_to_prepare_a_cheese_board/",
+      "link"			: "http://appetizers.party/articles/how_to_prepare_a_cheese_board/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -859,7 +859,7 @@
   
     ,{
       "title"			: "Spelt Everything Crackers",
-      "link"			: "http://localhost:4000/articles/spelt-everything-crackers/",
+      "link"			: "http://appetizers.party/articles/spelt-everything-crackers/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -867,7 +867,7 @@
   
     ,{
       "title"			: "Potato Pancakes, Even Better",
-      "link"			: "http://localhost:4000/articles/potato-pancakes-even-better/",
+      "link"			: "http://appetizers.party/articles/potato-pancakes-even-better/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -875,7 +875,7 @@
   
     ,{
       "title"			: "Feta Salsa",
-      "link"			: "http://localhost:4000/articles/feta-salsa/",
+      "link"			: "http://appetizers.party/articles/feta-salsa/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -883,7 +883,7 @@
   
     ,{
       "title"			: "Curried Pork Empanadas",
-      "link"			: "http://localhost:4000/articles/curried_pork_empanadas/",
+      "link"			: "http://appetizers.party/articles/curried_pork_empanadas/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -891,7 +891,7 @@
   
     ,{
       "title"			: "Onion Tart With Mustard And Fennel",
-      "link"			: "http://localhost:4000/articles/onion-tart-with-mustard-and-fennel/",
+      "link"			: "http://appetizers.party/articles/onion-tart-with-mustard-and-fennel/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -899,7 +899,7 @@
   
     ,{
       "title"			: "Marinated Eggplant With Capers And Mint",
-      "link"			: "http://localhost:4000/articles/marinated-eggplant-with-capers-and-mint/",
+      "link"			: "http://appetizers.party/articles/marinated-eggplant-with-capers-and-mint/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -907,7 +907,7 @@
   
     ,{
       "title"			: "Grilled Eggplant With Caponata Salsa",
-      "link"			: "http://localhost:4000/articles/grilled-eggplant-with-caponata-salsa/",
+      "link"			: "http://appetizers.party/articles/grilled-eggplant-with-caponata-salsa/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -915,7 +915,7 @@
   
     ,{
       "title"			: "Crisp Rosemary Flatbread",
-      "link"			: "http://localhost:4000/articles/crisp-rosemary-flatbread/",
+      "link"			: "http://appetizers.party/articles/crisp-rosemary-flatbread/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -923,7 +923,7 @@
   
     ,{
       "title"			: "Baked Stuffed Clams",
-      "link"			: "http://localhost:4000/articles/baked_stuffed_clams/",
+      "link"			: "http://appetizers.party/articles/baked_stuffed_clams/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -931,7 +931,7 @@
   
     ,{
       "title"			: "Shrimp Ceviche",
-      "link"			: "http://localhost:4000/articles/shrimp_ceviche/",
+      "link"			: "http://appetizers.party/articles/shrimp_ceviche/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -939,7 +939,7 @@
   
     ,{
       "title"			: "Herbed Summer Squash And Potato Torte",
-      "link"			: "http://localhost:4000/articles/herbed-summer-squash-and-potato-torte/",
+      "link"			: "http://appetizers.party/articles/herbed-summer-squash-and-potato-torte/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -947,7 +947,7 @@
   
     ,{
       "title"			: "Fava Bean Dip With Goat Cheese And Garlic",
-      "link"			: "http://localhost:4000/articles/fava_bean_dip_with_goat_cheese_and_garlic/",
+      "link"			: "http://appetizers.party/articles/fava_bean_dip_with_goat_cheese_and_garlic/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -955,7 +955,7 @@
   
     ,{
       "title"			: "Mushroom Strudel",
-      "link"			: "http://localhost:4000/articles/mushroom-streudels/",
+      "link"			: "http://appetizers.party/articles/mushroom-streudels/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -963,7 +963,7 @@
   
     ,{
       "title"			: "Hot Crab Dip",
-      "link"			: "http://localhost:4000/articles/hot_crab_dip/",
+      "link"			: "http://appetizers.party/articles/hot_crab_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -971,7 +971,7 @@
   
     ,{
       "title"			: "7 Layer Bean Dip",
-      "link"			: "http://localhost:4000/articles/7_layer_bean_dip/",
+      "link"			: "http://appetizers.party/articles/7_layer_bean_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -979,7 +979,7 @@
   
     ,{
       "title"			: "Shrimp Quesadilla",
-      "link"			: "http://localhost:4000/articles/shrimp_quesadilla/",
+      "link"			: "http://appetizers.party/articles/shrimp_quesadilla/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -987,7 +987,7 @@
   
     ,{
       "title"			: "Creamy White Polenta With Mushrooms",
-      "link"			: "http://localhost:4000/articles/creamy-white-polenta-with-mushrooms/",
+      "link"			: "http://appetizers.party/articles/creamy-white-polenta-with-mushrooms/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -995,7 +995,7 @@
   
     ,{
       "title"			: "Butternut Squash And Caramelized Onion Galette",
-      "link"			: "http://localhost:4000/articles/butternut-squash-and-caramelized-onion-galette/",
+      "link"			: "http://appetizers.party/articles/butternut-squash-and-caramelized-onion-galette/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1003,7 +1003,7 @@
   
     ,{
       "title"			: "Quick Zucchini Sauté",
-      "link"			: "http://localhost:4000/articles/my-favorite-side-dish/",
+      "link"			: "http://appetizers.party/articles/my-favorite-side-dish/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1011,7 +1011,7 @@
   
     ,{
       "title"			: "White Bean Roasted Red Pepper Dip",
-      "link"			: "http://localhost:4000/articles/dorkalicious/",
+      "link"			: "http://appetizers.party/articles/dorkalicious/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1019,7 +1019,7 @@
   
     ,{
       "title"			: "Chipotle Lime Bacon-Wrapped Shrimp",
-      "link"			: "http://localhost:4000/articles/chipotle_lime_bacon_wrapped_shrimp/",
+      "link"			: "http://appetizers.party/articles/chipotle_lime_bacon_wrapped_shrimp/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1027,7 +1027,7 @@
   
     ,{
       "title"			: "Ultra-Thin-Crust Pizza With Onions, Mushrooms, And Ricotta",
-      "link"			: "http://localhost:4000/articles/ultra_thin_crust_pizza_with_onions_mushrooms_and_ricotta/",
+      "link"			: "http://appetizers.party/articles/ultra_thin_crust_pizza_with_onions_mushrooms_and_ricotta/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1035,7 +1035,7 @@
   
     ,{
       "title"			: "Pickled Garlicky Red Peppers",
-      "link"			: "http://localhost:4000/articles/the-road-to-pickle-proficiency/",
+      "link"			: "http://appetizers.party/articles/the-road-to-pickle-proficiency/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1043,7 +1043,7 @@
   
     ,{
       "title"			: "Dad’S English Muffin Pizzas",
-      "link"			: "http://localhost:4000/articles/dads_english_muffin_pizzas/",
+      "link"			: "http://appetizers.party/articles/dads_english_muffin_pizzas/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1051,7 +1051,7 @@
   
     ,{
       "title"			: "Risotto Al Barolo + Green Crostini",
-      "link"			: "http://localhost:4000/articles/batali-sans-barolo/",
+      "link"			: "http://appetizers.party/articles/batali-sans-barolo/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1059,7 +1059,7 @@
   
     ,{
       "title"			: "Vegetable Dumplings",
-      "link"			: "http://localhost:4000/articles/on-obsessiveness-and-ollies/",
+      "link"			: "http://appetizers.party/articles/on-obsessiveness-and-ollies/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1067,7 +1067,7 @@
   
     ,{
       "title"			: "Greek Meatballs",
-      "link"			: "http://localhost:4000/articles/greek_meatballs/",
+      "link"			: "http://appetizers.party/articles/greek_meatballs/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1075,7 +1075,7 @@
   
     ,{
       "title"			: "Parmesan Black Pepper Biscotti",
-      "link"			: "http://localhost:4000/articles/the-anticandy/",
+      "link"			: "http://appetizers.party/articles/the-anticandy/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1083,7 +1083,7 @@
   
     ,{
       "title"			: "Zucchini Latkes",
-      "link"			: "http://localhost:4000/articles/latke-minus-vodka/",
+      "link"			: "http://appetizers.party/articles/latke-minus-vodka/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1091,7 +1091,7 @@
   
     ,{
       "title"			: "Gougères + Stuffed Mushrooms",
-      "link"			: "http://localhost:4000/articles/just-a-few-bites/",
+      "link"			: "http://appetizers.party/articles/just-a-few-bites/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1099,7 +1099,7 @@
   
     ,{
       "title"			: "Shrimp Cocktail + Artichoke-Potato Gratin",
-      "link"			: "http://localhost:4000/articles/when-the-stars-make-you-drool/",
+      "link"			: "http://appetizers.party/articles/when-the-stars-make-you-drool/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1107,7 +1107,7 @@
   
     ,{
       "title"			: "Indian-Spiced Vegetable Fritters",
-      "link"			: "http://localhost:4000/articles/throwing-pancakes-to-the-wind/",
+      "link"			: "http://appetizers.party/articles/throwing-pancakes-to-the-wind/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1115,7 +1115,7 @@
   
     ,{
       "title"			: "Zucchini, Ham And Ricotta Fritters",
-      "link"			: "http://localhost:4000/articles/shes-finally-lost-it/",
+      "link"			: "http://appetizers.party/articles/shes-finally-lost-it/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1123,7 +1123,7 @@
   
     ,{
       "title"			: "Sundried Tomato Stuffed Mushrooms",
-      "link"			: "http://localhost:4000/articles/grievances-aired-caps-stuffed/",
+      "link"			: "http://appetizers.party/articles/grievances-aired-caps-stuffed/",
       "excerpt"		: "from smittenkitchen.com"
     }
   
@@ -1131,7 +1131,7 @@
   
     ,{
       "title"			: "Onion Rings",
-      "link"			: "http://localhost:4000/articles/onion_rings/",
+      "link"			: "http://appetizers.party/articles/onion_rings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1139,7 +1139,7 @@
   
     ,{
       "title"			: "Honey Mustard Chicken Wings",
-      "link"			: "http://localhost:4000/articles/honey_mustard_chicken_wings/",
+      "link"			: "http://appetizers.party/articles/honey_mustard_chicken_wings/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1147,7 +1147,7 @@
   
     ,{
       "title"			: "Garlic Bread",
-      "link"			: "http://localhost:4000/articles/garlic_bread/",
+      "link"			: "http://appetizers.party/articles/garlic_bread/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1155,7 +1155,7 @@
   
     ,{
       "title"			: "Papaya, Prosciutto, And Lime",
-      "link"			: "http://localhost:4000/articles/papaya_prosciutto_and_lime/",
+      "link"			: "http://appetizers.party/articles/papaya_prosciutto_and_lime/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1163,7 +1163,7 @@
   
     ,{
       "title"			: "Mango Salsa",
-      "link"			: "http://localhost:4000/articles/mango_salsa/",
+      "link"			: "http://appetizers.party/articles/mango_salsa/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1171,7 +1171,7 @@
   
     ,{
       "title"			: "Mushroom Caviar",
-      "link"			: "http://localhost:4000/articles/mushroom_caviar/",
+      "link"			: "http://appetizers.party/articles/mushroom_caviar/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1179,7 +1179,7 @@
   
     ,{
       "title"			: "Salmon Spread",
-      "link"			: "http://localhost:4000/articles/salmon_spread/",
+      "link"			: "http://appetizers.party/articles/salmon_spread/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1187,7 +1187,7 @@
   
     ,{
       "title"			: "Swiss Chard Tzatziki (Yogurt Dip)",
-      "link"			: "http://localhost:4000/articles/swiss_chard_tzatziki_yogurt_dip/",
+      "link"			: "http://appetizers.party/articles/swiss_chard_tzatziki_yogurt_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1195,7 +1195,7 @@
   
     ,{
       "title"			: "Hummus",
-      "link"			: "http://localhost:4000/articles/hummus/",
+      "link"			: "http://appetizers.party/articles/hummus/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1203,7 +1203,7 @@
   
     ,{
       "title"			: "Nachos",
-      "link"			: "http://localhost:4000/articles/nachos/",
+      "link"			: "http://appetizers.party/articles/nachos/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1211,7 +1211,7 @@
   
     ,{
       "title"			: "Crab Dip",
-      "link"			: "http://localhost:4000/articles/crab_dip/",
+      "link"			: "http://appetizers.party/articles/crab_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1219,7 +1219,7 @@
   
     ,{
       "title"			: "Roasted Garlic",
-      "link"			: "http://localhost:4000/articles/roasted_garlic/",
+      "link"			: "http://appetizers.party/articles/roasted_garlic/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1227,7 +1227,7 @@
   
     ,{
       "title"			: "Oxtail Pâté (Pate)",
-      "link"			: "http://localhost:4000/articles/oxtail_pate_pate/",
+      "link"			: "http://appetizers.party/articles/oxtail_pate_pate/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1235,7 +1235,7 @@
   
     ,{
       "title"			: "Olive Crostini",
-      "link"			: "http://localhost:4000/articles/olive_crostini/",
+      "link"			: "http://appetizers.party/articles/olive_crostini/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1243,7 +1243,7 @@
   
     ,{
       "title"			: "Prosciutto, Melon, And Mozzarella",
-      "link"			: "http://localhost:4000/articles/prosciutto_melon_and_mozzarella/",
+      "link"			: "http://appetizers.party/articles/prosciutto_melon_and_mozzarella/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1251,7 +1251,7 @@
   
     ,{
       "title"			: "Quick And Easy Artichoke Dip",
-      "link"			: "http://localhost:4000/articles/quick_and_easy_artichoke_dip/",
+      "link"			: "http://appetizers.party/articles/quick_and_easy_artichoke_dip/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1259,7 +1259,7 @@
   
     ,{
       "title"			: "Pâté (Pate) Maison",
-      "link"			: "http://localhost:4000/articles/pate_pate_maison/",
+      "link"			: "http://appetizers.party/articles/pate_pate_maison/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1267,7 +1267,7 @@
   
     ,{
       "title"			: "Liver Pâté",
-      "link"			: "http://localhost:4000/articles/liver_pate/",
+      "link"			: "http://appetizers.party/articles/liver_pate/",
       "excerpt"		: "from www.simplyrecipes.com"
     }
   
@@ -1287,7 +1287,7 @@
   
     ,{
       "title"			: "About the Jekyll Theme",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://appetizers.party/about/",
       "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
     }
   
@@ -1297,7 +1297,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://appetizers.party/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
