@@ -30,8 +30,7 @@ def get_content(item):
     res = ''
     if 'ingredients' in item:
         res += '### Ingredients\n\n'
-        for x in item['ingredients']:
-            res += '  %s\n' % x
+        res += '  \n'.join(item['ingredients'])
         res += '\n\n### Recipe\n\n'
     res += 'Go check the recipe instructions on [%s](%s).' % \
         (item['source'], item['link'])
