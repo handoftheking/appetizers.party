@@ -30,7 +30,8 @@ def get_content(item):
     res = ''
     if 'ingredients' in item:
         res += '### Ingredients\n\n'
-        res += '  \n'.join(item['ingredients'])
+        for ingredient in item['ingredients']:
+            res += '<span><input type="checkbox"> %s</span><br>\n' % ingredient
         res += '\n\n### Recipe\n\n'
     res += 'Go check the recipe instructions on [%s](%s).' % \
         (item['source'], item['link'])

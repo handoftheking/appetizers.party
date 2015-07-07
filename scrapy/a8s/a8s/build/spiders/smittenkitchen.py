@@ -1,12 +1,14 @@
 import scrapy
 from a8s.items import A8SItem
 
+SOURCE = 'smittenkitchen.com'
 
-class SkSpider(scrapy.Spider):
-    name = "sk"
+
+class SmittenkitchenSpider(scrapy.Spider):
+    name = "smittenkitchen"
     allowed_domains = ["smittenkitchen.com"]
     start_urls = [
-        'http://smittenkitchen.com/recipes/'
+        'http://%s/recipes/' % SOURCE
     ]
 
     def parse(self, response):
@@ -17,7 +19,7 @@ class SkSpider(scrapy.Spider):
             item['link'] = sel.xpath('a/@href').extract()[0]
             print item['link']
             slug = item['link'].split(
-                'http://smittenkitchen.com/blog/')[1].replace('/', '-')
+                'http://%s/blog/' % SOURCE)[1].replace('/', '-').strip('-')
             item['slug'] = '%s01-%s' % (slug[:8], slug[8:])
-
+            item['source'] = SOURCE
             yield item
