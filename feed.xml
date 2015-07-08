@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Appetizers.party</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-07-08T22:41:20+02:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
+<link rel="alternate" type="text/html" href="http://appetizers.party" />
+<updated>2015-07-08T22:44:03+02:00</updated>
+<id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://appetizers.party/</uri>
   <email>contact@appetizers.party</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Grilled Garlic Shrimp Skewers]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/grilled_garlic_shrimp_skewers/" />
-  <id>http://localhost:4000/articles/grilled_garlic_shrimp_skewers</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/grilled_garlic_shrimp_skewers/" />
+  <id>http://appetizers.party/articles/grilled_garlic_shrimp_skewers</id>
   <published>2015-07-01T00:00:00+02:00</published>
   <updated>2015-07-01T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -42,7 +42,7 @@
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/grilled_garlic_shrimp_skewers/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/grilled_garlic_shrimp_skewers/&quot;&gt;Grilled Garlic Shrimp Skewers&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/grilled_garlic_shrimp_skewers/&quot;&gt;Grilled Garlic Shrimp Skewers&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -51,13 +51,13 @@
 
 <entry>
   <title type="html"><![CDATA[Crispy Frizzled Artichokes]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/crispy-frizzled-artichokes/" />
-  <id>http://localhost:4000/articles/crispy-frizzled-artichokes</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/crispy-frizzled-artichokes/" />
+  <id>http://appetizers.party/articles/crispy-frizzled-artichokes</id>
   <published>2015-06-01T00:00:00+02:00</published>
   <updated>2015-06-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -74,7 +74,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 &lt;p&gt;Go check the full recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/06/crispy-frizzled-artichokes/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/crispy-frizzled-artichokes/&quot;&gt;Crispy Frizzled Artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/crispy-frizzled-artichokes/&quot;&gt;Crispy Frizzled Artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -83,13 +83,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Fresh Tomato Salsa]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/fresh_tomato_salsa/" />
-  <id>http://localhost:4000/articles/fresh_tomato_salsa</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/fresh_tomato_salsa/" />
+  <id>http://appetizers.party/articles/fresh_tomato_salsa</id>
   <published>2015-05-01T00:00:00+02:00</published>
   <updated>2015-05-01T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -108,7 +108,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/fresh_tomato_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/fresh_tomato_salsa/&quot;&gt;Fresh Tomato Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/fresh_tomato_salsa/&quot;&gt;Fresh Tomato Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on May 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -117,13 +117,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Deviled Eggs]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/deviled_eggs/" />
-  <id>http://localhost:4000/articles/deviled_eggs</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/deviled_eggs/" />
+  <id>http://appetizers.party/articles/deviled_eggs</id>
   <published>2015-03-24T00:00:00+01:00</published>
   <updated>2015-03-24T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -141,7 +141,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/deviled_eggs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/deviled_eggs/&quot;&gt;Deviled Eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on March 24, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/deviled_eggs/&quot;&gt;Deviled Eggs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 24, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -150,19 +150,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Wild Mushroom Pâté]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/wild-mushroom-pate/" />
-  <id>http://localhost:4000/articles/wild-mushroom-pate</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/wild-mushroom-pate/" />
+  <id>http://appetizers.party/articles/wild-mushroom-pate</id>
   <published>2015-03-01T00:00:00+01:00</published>
   <updated>2015-03-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -171,13 +171,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Cheesy Bread]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/cheesy_bread/" />
-  <id>http://localhost:4000/articles/cheesy_bread</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/cheesy_bread/" />
+  <id>http://appetizers.party/articles/cheesy_bread</id>
   <published>2015-01-29T00:00:00+01:00</published>
   <updated>2015-01-29T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -196,7 +196,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cheesy_bread/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/cheesy_bread/&quot;&gt;Cheesy Bread&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 29, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/cheesy_bread/&quot;&gt;Cheesy Bread&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 29, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -205,13 +205,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Potato Skins]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/potato_skins/" />
-  <id>http://localhost:4000/articles/potato_skins</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/potato_skins/" />
+  <id>http://appetizers.party/articles/potato_skins</id>
   <published>2015-01-25T00:00:00+01:00</published>
   <updated>2015-01-25T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -231,7 +231,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/potato_skins/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/potato_skins/&quot;&gt;Potato Skins&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 25, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/potato_skins/&quot;&gt;Potato Skins&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 25, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -240,13 +240,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Bourbon Maple Glazed Chicken Wings]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/bourbon_maple_glazed_chicken_wings/" />
-  <id>http://localhost:4000/articles/bourbon_maple_glazed_chicken_wings</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings/" />
+  <id>http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings</id>
   <published>2015-01-22T00:00:00+01:00</published>
   <updated>2015-01-22T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -266,7 +266,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/bourbon_maple_glazed_chicken_wings/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/bourbon_maple_glazed_chicken_wings/&quot;&gt;Bourbon Maple Glazed Chicken Wings&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on January 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/bourbon_maple_glazed_chicken_wings/&quot;&gt;Bourbon Maple Glazed Chicken Wings&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -275,13 +275,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Roasted Red Bell Pepper Dip]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/roasted_red_bell_pepper_dip/" />
-  <id>http://localhost:4000/articles/roasted_red_bell_pepper_dip</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/roasted_red_bell_pepper_dip/" />
+  <id>http://appetizers.party/articles/roasted_red_bell_pepper_dip</id>
   <published>2014-12-22T00:00:00+01:00</published>
   <updated>2014-12-22T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -297,7 +297,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/roasted_red_bell_pepper_dip/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/roasted_red_bell_pepper_dip/&quot;&gt;Roasted Red Bell Pepper Dip&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 22, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted_red_bell_pepper_dip/&quot;&gt;Roasted Red Bell Pepper Dip&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 22, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -306,13 +306,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Swedish Meatballs]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/swedish_meatballs/" />
-  <id>http://localhost:4000/articles/swedish_meatballs</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/swedish_meatballs/" />
+  <id>http://appetizers.party/articles/swedish_meatballs</id>
   <published>2014-12-02T00:00:00+01:00</published>
   <updated>2014-12-02T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -340,7 +340,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/swedish_meatballs/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/swedish_meatballs/&quot;&gt;Swedish Meatballs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 02, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/swedish_meatballs/&quot;&gt;Swedish Meatballs&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 02, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -349,19 +349,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Roasted Grape And Olive Crostini]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/roasted-grape-and-olive-crostini/" />
-  <id>http://localhost:4000/articles/roasted-grape-and-olive-crostini</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/roasted-grape-and-olive-crostini/" />
+  <id>http://appetizers.party/articles/roasted-grape-and-olive-crostini</id>
   <published>2014-12-01T00:00:00+01:00</published>
   <updated>2014-12-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/12/roasted-grape-and-olive-crostini/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/roasted-grape-and-olive-crostini/&quot;&gt;Roasted Grape And Olive Crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted-grape-and-olive-crostini/&quot;&gt;Roasted Grape And Olive Crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -370,13 +370,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Cranberry Salsa]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/cranberry_salsa/" />
-  <id>http://localhost:4000/articles/cranberry_salsa</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/cranberry_salsa/" />
+  <id>http://appetizers.party/articles/cranberry_salsa</id>
   <published>2014-11-06T00:00:00+01:00</published>
   <updated>2014-11-06T00:00:00+01:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -396,7 +396,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/cranberry_salsa/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/cranberry_salsa/&quot;&gt;Cranberry Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 06, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/cranberry_salsa/&quot;&gt;Cranberry Salsa&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 06, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -405,19 +405,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Smoked Whitefish Dip With Horseradish]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/smoked-whitefish-dip-with-horseradish/" />
-  <id>http://localhost:4000/articles/smoked-whitefish-dip-with-horseradish</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/" />
+  <id>http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/smoked-whitefish-dip-with-horseradish/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;Smoked Whitefish Dip With Horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;Smoked Whitefish Dip With Horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -426,19 +426,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pretzel Parker House Rolls]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/pretzel-parker-house-rolls/" />
-  <id>http://localhost:4000/articles/pretzel-parker-house-rolls</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pretzel-parker-house-rolls/" />
+  <id>http://appetizers.party/articles/pretzel-parker-house-rolls</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pretzel-parker-house-rolls/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/pretzel-parker-house-rolls/&quot;&gt;Pretzel Parker House Rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pretzel-parker-house-rolls/&quot;&gt;Pretzel Parker House Rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -447,19 +447,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pickled Cabbage Salad]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/pickled-cabbage-salad/" />
-  <id>http://localhost:4000/articles/pickled-cabbage-salad</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/pickled-cabbage-salad/" />
+  <id>http://appetizers.party/articles/pickled-cabbage-salad</id>
   <published>2014-11-01T00:00:00+01:00</published>
   <updated>2014-11-01T00:00:00+01:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pickled-cabbage-salad/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/pickled-cabbage-salad/&quot;&gt;Pickled Cabbage Salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pickled-cabbage-salad/&quot;&gt;Pickled Cabbage Salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -468,19 +468,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Squash Toasts With Ricotta And Cider Vinegar]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
-  <id>http://localhost:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/" />
+  <id>http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar</id>
   <published>2014-10-01T00:00:00+02:00</published>
   <updated>2014-10-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/10/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;Squash Toasts With Ricotta And Cider Vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;Squash Toasts With Ricotta And Cider Vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -489,13 +489,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Sesame Chicken Fingers With Spicy Orange Dipping Sauce]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/" />
-  <id>http://localhost:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/" />
+  <id>http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce</id>
   <published>2014-09-23T00:00:00+02:00</published>
   <updated>2014-09-23T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -518,7 +518,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;Sesame Chicken Fingers With Spicy Orange Dipping Sauce&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 23, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/sesame_chicken_fingers_with_spicy_orange_dipping_sauce/&quot;&gt;Sesame Chicken Fingers With Spicy Orange Dipping Sauce&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 23, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -527,13 +527,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Arizona Cheese Crisp]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/sonoran_quesadilla/" />
-  <id>http://localhost:4000/articles/sonoran_quesadilla</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/sonoran_quesadilla/" />
+  <id>http://appetizers.party/articles/sonoran_quesadilla</id>
   <published>2014-09-06T00:00:00+02:00</published>
   <updated>2014-09-06T00:00:00+02:00</updated>
   <author>
     <name>simplyrecipes</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
@@ -548,7 +548,7 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://www.simplyrecipes.com/recipes/sonoran_quesadilla/&quot;&gt;www.simplyrecipes.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/sonoran_quesadilla/&quot;&gt;Arizona Cheese Crisp&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 06, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/sonoran_quesadilla/&quot;&gt;Arizona Cheese Crisp&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 06, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -557,19 +557,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Herbed Tomato And Roasted Garlic Tart]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/herbed-tomato-and-roasted-garlic-tart/" />
-  <id>http://localhost:4000/articles/herbed-tomato-and-roasted-garlic-tart</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/" />
+  <id>http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart</id>
   <published>2014-09-01T00:00:00+02:00</published>
   <updated>2014-09-01T00:00:00+02:00</updated>
   <author>
     <name>smittenkitchen</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/09/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -578,13 +578,13 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/hello-world/" />
-  <id>http://localhost:4000/blog/hello-world</id>
+  <link rel="alternate" type="text/html" href="http://appetizers.party/blog/hello-world/" />
+  <id>http://appetizers.party/blog/hello-world</id>
   <published>2014-08-08T21:39:55+02:00</published>
   <updated>2014-08-08T21:39:55+02:00</updated>
   <author>
     <name>Appetizers.party</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://appetizers.party</uri>
     <email>contact@appetizers.party</email>
   </author>
   <content type="html">
@@ -606,7 +606,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://localhost:4000&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://appetizers.party/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on August 08, 2014.&lt;/p&gt;
   </content>
 </entry>
 
