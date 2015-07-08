@@ -17,6 +17,7 @@ categories: articles
 tags: [{source}]
 link: {link}
 author: {source}
+share: true
 ---
 
 """
