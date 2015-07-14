@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
 <link rel="alternate" type="text/html" href="http://appetizers.party" />
-<updated>2015-07-10T07:25:01+02:00</updated>
+<updated>2015-07-15T00:16:26+02:00</updated>
 <id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
@@ -63,16 +63,15 @@
   <content type="html">
     &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 
-&lt;p&gt;Baby or large artichokes, as many as you wish to prep and eat&lt;br /&gt;
-1 to 2 lemons, halved (1 should be fine for smaller amounts)&lt;br /&gt;
-Olive oil&lt;br /&gt;
-Coarse salt&lt;br /&gt;
-Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Baby or large artichokes, as many as you wish to prep and eat&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 to 2 lemons, halved (1 should be fine for smaller amounts)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Olive oil&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Coarse salt&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Chopped flat-leaf parsley (for garnish, optional)&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
 
-&lt;p&gt;Go check the full recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/06/crispy-frizzled-artichokes/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/06/crispy-frizzled-artichokes/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/crispy-frizzled-artichokes/&quot;&gt;Crispy Frizzled Artichokes&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
   </content>
@@ -160,7 +159,21 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 ounce dried porcini or cepe mushrooms&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 cup boiling water&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/4 cup olive oil&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 3 tablespoons butter, divided&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 cups diced yellow onion or a combination of chopped onions and shallots (I used 1 cup onion, 1/2 cup shallots)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Coarse salt and freshly ground black pepper to taste&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 pounds mixed fresh mushrooms, any tough stems discarded and roughly chopped&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 teaspoon fresh thyme leaves (use half if dry)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/4 cup Madeira, Marsala or sherry, or 1/2 cup white wine&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2015/03/wild-mushroom-pate/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/wild-mushroom-pate/&quot;&gt;Wild Mushroom Pâté&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on March 01, 2015.&lt;/p&gt;
   </content>
@@ -359,7 +372,19 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/12/roasted-grape-and-olive-crostini/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 tablespoons olive oil&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 cup grapes, seedless purple ones are my first choice, all will work&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 cup olives, pitted kalamata are my first choice, all will work&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 teaspoons finely chopped rosemary, divided&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Sea salt and red pepper flakes&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; About 12 baguette slices, toasted&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 3/4 cup ricotta&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/12/roasted-grape-and-olive-crostini/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/roasted-grape-and-olive-crostini/&quot;&gt;Roasted Grape And Olive Crostini&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on December 01, 2014.&lt;/p&gt;
   </content>
@@ -415,7 +440,29 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/smoked-whitefish-dip-with-horseradish/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup mayonnaise&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup sour cream&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoon prepared horseradish&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoon Worcestershire sauce&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 tablespoons Creole mustard, or a mustard that you prefer&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 teaspoon smoked paprika&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Zest and juice from 2 lemons&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 tablespoons Tabasco sauce (see Note; I skipped this)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 teaspoon cayenne powder (I used much less)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 3 green onions, thinly sliced (white and green parts)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 stalk celery, finely diced&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 jalapeño, finely chopped (I skipped this)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 medium yellow onion, finely diced (and this)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 pound skinned and flaked smoked whitefish&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Salt and pepper, to taste&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Saltine crackers to serve&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoons finely chopped chives, for garnish&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/smoked-whitefish-dip-with-horseradish/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/smoked-whitefish-dip-with-horseradish/&quot;&gt;Smoked Whitefish Dip With Horseradish&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
@@ -436,7 +483,22 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pretzel-parker-house-rolls/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 3/4 cup plus 2 tablespoons milk&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 tablespoons granulated sugar&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/4 teaspoons (half a 1/4-ounce or 7-gram packet) active dry yeast&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 3 tablespoons unsalted butter, melted, plus extra to coat bowl&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 cups flour, either all-purpose or bread flour, or a mix thereof, plus extra for dusting&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 teaspoon fine sea or table salt&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup water&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 teaspoons baking soda or food-grade lye (see Notes below)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 egg, beaten with 1 teaspoon water&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Pretzel salt, coarse salt or sesame seeds&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pretzel-parker-house-rolls/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pretzel-parker-house-rolls/&quot;&gt;Pretzel Parker House Rolls&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
@@ -457,7 +519,21 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pickled-cabbage-salad/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 cups white vinegar&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 cups water&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/3 cup granulated sugar&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 teaspoon celery seed&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoon plus 2 teaspoons kosher salt* plus more to taste&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 small head (2 pounds) green cabbage&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 red bell pepper&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 carrot (I used only 1/2 my very thick one)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 kirby cucumber&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/11/pickled-cabbage-salad/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/pickled-cabbage-salad/&quot;&gt;Pickled Cabbage Salad&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on November 01, 2014.&lt;/p&gt;
   </content>
@@ -478,7 +554,22 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/10/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 2 1/2- to 3-pound kabocha or other yellow-fleshed squash (such as delicata, acorn or butternut, which I used)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 to 3/4 cup olive oil&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 teaspoon dried chile flakes, more or less to taste&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Coarse sea or kosher salt&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 yellow onion, peeled and thinly sliced&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/3 cup apple cider vinegar&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/4 cup maple syrup (though I’ll probably use 3 tablespoons next time)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 4 slices country bread, 1-inch thick&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup (4 ounces) ricotta, goat cheese, feta or mascarpone&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 4 tablespoons chopped mint leaves&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/10/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/squash-toasts-with-ricotta-and-cider-vinegar/&quot;&gt;Squash Toasts With Ricotta And Cider Vinegar&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on October 01, 2014.&lt;/p&gt;
   </content>
@@ -567,7 +658,22 @@ Chopped flat-leaf parsley (for garnish, optional)  &lt;/p&gt;
     
   </author>
   <content type="html">
-    &lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/09/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 small head garlic&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 tablespoons olive oil, plus an extra drizzle for the garlic&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 9″x13″ sheet frozen puffed pastry*, thawed in fridge for several hours&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/3 cup finely grated Parmesan cheese&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Kosher salt and freshly ground black pepper or red pepper flakes, to taste&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoon capers, drained and rinsed, if salted (or 1 to 2 anchovies, finely chopped)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 1/2 pounds (about 4 cups) small cherry or grape tomatoes, the sweetest you can find&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 tablespoons finely chopped flat-leaf parsley&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoons finely chopped fresh chives&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1 tablespoons finely chopped fresh oregano&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;recipe&quot;&gt;Recipe&lt;/h3&gt;
+
+&lt;p&gt;Go check the recipe instructions on &lt;a href=&quot;http://smittenkitchen.com/blog/2014/09/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;smittenkitchen.com&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/herbed-tomato-and-roasted-garlic-tart/&quot;&gt;Herbed Tomato And Roasted Garlic Tart&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
   </content>
