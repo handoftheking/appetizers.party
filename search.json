@@ -154,14 +154,6 @@
 
   
     ,{
-      "title"			: "Hello World",
-      "link"			: "http://appetizers.party/blog/hello-world/",
-      "excerpt"		: ""
-    }
-  
-
-  
-    ,{
       "title"			: "Bruschetta With Tomato And Basil",
       "link"			: "http://appetizers.party/articles/bruschetta_with_tomato_and_basil/",
       "excerpt"		: "from www.simplyrecipes.com"
