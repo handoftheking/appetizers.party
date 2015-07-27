@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://appetizers.party/feed.xml" />
 <link rel="alternate" type="text/html" href="http://appetizers.party" />
-<updated>2015-07-22T23:26:32+02:00</updated>
+<updated>2015-07-28T00:20:55+02:00</updated>
 <id>http://appetizers.party/</id>
 <author>
   <name>Appetizers.party</name>
@@ -27,21 +27,36 @@
     
   </author>
   <content type="html">
-    &lt;p&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 6 small to medium sized russet baking potatoes (total 3 pounds)&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Olive oil&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Canola oil or grapeseed oil&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Kosher salt&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Freshly ground pepper&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 6 strips of bacon&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 4 ounces grated cheddar cheese&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup sour cream&lt;/span&gt;&lt;br /&gt;
-&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 green onions, thinly sliced, including the greens of the onions&lt;/span&gt;&lt;/p&gt;
+    &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt;  6 small to medium sized russet baking potatoes (total 3 pounds)&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Olive oil&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Canola oil or grapeseed oil&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Kosher salt&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; Freshly ground pepper&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 6 strips of bacon&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 4 ounces grated cheddar cheese&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 1/2 cup sour cream&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&quot;checkbox&quot;&gt;&lt;label&gt;&lt;span&gt;&lt;input type=&quot;checkbox&quot; /&gt; 2 green onions, thinly sliced, including the greens of the onions&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;algo&quot;&gt;Algo&lt;/h3&gt;
 
-&lt;div class=&quot;gist-wrap&quot;&gt;
 &lt;script src=&quot;https://gist.github.com/Kraymer/3d174cf52f2321521e50.js&quot;&gt; &lt;/script&gt;
-&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; Rub potatoes w/ olive_oil                      ┌ 90&amp;#39;🕖 
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; Microwave at heatmax                      30&amp;#39;🔥│
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt;     Pan at heat:medi  um                12&amp;#39;🍳╭─┤
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;     Crumble                                  │ ⋮
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; Slice half &amp;amp; horizontally                    ╰─┼ 55&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; Scoop_out (shell:1.5inch)                      │
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; Rub w/ canola_oil                              │
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; Season w/ salt                                 ├ 40&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; Place on baking_rack                           │
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; Oven at heat:450°F (10 min/side)          20&amp;#39;🔥├ 15&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; Fill w/ pepper cheddar &amp;amp; bacon                 │
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; Oven at heat:450°F                         2&amp;#39;🔥│ 
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; Heap w/ sour_cream &amp;amp; green_onions              └ 0&amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 
     &lt;p&gt;&lt;a href=&quot;http://appetizers.party/articles/potato_skins/&quot;&gt;Potato Skins&lt;/a&gt; was originally published by Appetizers.party at &lt;a href=&quot;http://appetizers.party&quot;&gt;Appetizers.party&lt;/a&gt; on January 25, 2015.&lt;/p&gt;
   </content>

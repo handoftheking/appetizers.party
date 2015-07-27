@@ -6,26 +6,26 @@
 <head>
 <meta charset="utf-8">
 <title>Potato Skins &#8211; Appetizers.party</title>
-<meta name="description" content="14 moves / 100'">
+<meta name="description" content="from www.simplyrecipes.com">
 <meta name="keywords" content="www.simplyrecipes.com">
 
   
 
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="Potato Skins">
-<meta name="twitter:description" content="14 moves / 100'">
+<meta name="twitter:description" content="from www.simplyrecipes.com">
 
 
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://appetizers.party/images/simplyrecipes/2015-01-25-potato_skins.jpg">
+<meta name="twitter:image" content="http://localhost:4000/images/simplyrecipes/2015-01-25-potato_skins.jpg">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Potato Skins">
-<meta property="og:description" content="14 moves / 100'">
-<meta property="og:url" content="http://appetizers.party/articles/potato_skins/">
+<meta property="og:description" content="from www.simplyrecipes.com">
+<meta property="og:url" content="http://localhost:4000/articles/potato_skins/">
 <meta property="og:site_name" content="Appetizers.party">
 
 <!-- Webmaster Tools verfication -->
@@ -33,8 +33,8 @@
 
 
 
-<link rel="canonical" href="http://appetizers.party/articles/potato_skins/">
-<link href="http://appetizers.party/feed.xml" type="application/atom+xml" rel="alternate" title="Appetizers.party Feed">
+<link rel="canonical" href="http://localhost:4000/articles/potato_skins/">
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Appetizers.party Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -42,8 +42,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://appetizers.party/assets/css/main.css">
-<link rel="stylesheet" href="http://appetizers.party/assets/css/awesome-bootstrap-checkbox.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
 <!-- Webfonts -->
 <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
@@ -51,26 +51,33 @@
 
 <!-- HTML5 Shiv and Media Query Support -->
 <!--[if lt IE 9]>
-  <script src="http://appetizers.party/assets/js/vendor/html5shiv.min.js"></script>
-  <script src="http://appetizers.party/assets/js/vendor/respond.min.js"></script>
+  <script src="http://localhost:4000/assets/js/vendor/html5shiv.min.js"></script>
+  <script src="http://localhost:4000/assets/js/vendor/respond.min.js"></script>
 <![endif]-->
 
 <!-- Modernizr -->
-<script src="http://appetizers.party/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+<script src="http://localhost:4000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://appetizers.party/favicon.ico">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="http://appetizers.party/favicon.png">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://appetizers.party/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://appetizers.party/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://appetizers.party/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://appetizers.party/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://localhost:4000/assets/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="http://localhost:4000/assets/css/bootstrap.min.css">
 
 </head>
 
@@ -78,21 +85,19 @@
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
-	    <ul>
-          
-            <li><a href="http://appetizers.party/" rel="home" title="Appetizers.party"><img src="http://appetizers.party/images/site-logo.png" width="200"  alt="Appetizers.party logo" class="animated fadeInDown"></a>
-          
 
+	    <ul>
+            <li> <a href="http://localhost:4000/" rel="home" title="Appetizers.party"><img src="http://localhost:4000/images/site-logo.png" width="200" alt="Appetizers.party logo"></a></li>
       
 		    
 		        
 		    
-		    <li><a href="http://appetizers.party/" >Search</a></li>
+		    <li><a href="http://localhost:4000/" >Search</a></li>
 		  
 		    
 		        
 		    
-		    <li><a href="http://appetizers.party/recipes/" >Recipes</a></li>
+		    <li><a href="http://localhost:4000/recipes/" >Recipes</a></li>
 		  
 	    </ul>
 	</nav>
@@ -102,7 +107,7 @@
 <div id="main" role="main">
   <article class="hentry">
     <div class='entry-banner'>
-      <img src="http://appetizers.party/images/simplyrecipes/2015-01-25-potato_skins.jpg" class="entry-feature-image" alt="Potato Skins" ><p class="image-credit">Image credit: <a href="">www.simplyrecipes.com</a></p>
+      <img src="http://localhost:4000/images/simplyrecipes/2015-01-25-potato_skins.jpg" class="entry-feature-image" alt="Potato Skins" ><p class="image-credit">Image credit: <a href="">www.simplyrecipes.com</a></p>
       
         <h1 class="entry-title"><a href="http://www.simplyrecipes.com/recipes/potato_skins/">Potato Skins <span class="link-arrow">&rarr;</span></a></h1>
       
@@ -112,20 +117,20 @@
         
           
         
-          <img src="http://appetizers.party/images/simplyrecipes.png" class="bio-photo" alt="simplyrecipes bio photo"></a>
+          <img src="http://localhost:4000/images/simplyrecipes.png" class="bio-photo" alt="simplyrecipes bio photo"></a>
         
         <span class="author vcard">From <span class="fn">simplyrecipes</span></span>
         <span class="entry-date date published"><time datetime="2015-01-25T00:00:00+01:00"><i class="fa fa-calendar-o"></i> January 25, 2015</time></span>
         
         
         <span class="social-share-twitter">
-  <a href="https://twitter.com/intent/tweet?hashtags=www.simplyrecipes.com&amp;text=Potato%20Skins&amp;url=http://appetizers.party/articles/potato_skins/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+  <a href="https://twitter.com/intent/tweet?hashtags=www.simplyrecipes.com&amp;text=Potato%20Skins&amp;url=http://localhost:4000/articles/potato_skins/" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
 </span>
 <span class="social-share-facebook">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://appetizers.party/articles/potato_skins/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/articles/potato_skins/" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
 </span>
 <span class="social-share-googleplus">
-  <a href="https://plus.google.com/share?url=http://appetizers.party/articles/potato_skins/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+  <a href="https://plus.google.com/share?url=http://localhost:4000/articles/potato_skins/" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
 </span>
 <span class="social-share-pinboard">
   <a class="bookmarklet" href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://pinboard.in/add?url='+encodeURIComponent(q)+'&description='+encodeURIComponent(d)+'&title='+encodeURIComponent(p),'Pinboard','toolbar=no,width=700,height=350'));">
@@ -136,27 +141,47 @@
         
       </footer>
       <div class="entry-content">
-        <p><span><input type="checkbox" /> 6 small to medium sized russet baking potatoes (total 3 pounds)</span><br />
-<span><input type="checkbox" /> Olive oil</span><br />
-<span><input type="checkbox" /> Canola oil or grapeseed oil</span><br />
-<span><input type="checkbox" /> Kosher salt</span><br />
-<span><input type="checkbox" /> Freshly ground pepper</span><br />
-<span><input type="checkbox" /> 6 strips of bacon</span><br />
-<span><input type="checkbox" /> 4 ounces grated cheddar cheese</span><br />
-<span><input type="checkbox" /> 1/2 cup sour cream</span><br />
-<span><input type="checkbox" /> 2 green onions, thinly sliced, including the greens of the onions</span></p>
+        <h3 id="ingredients">Ingredients</h3>
+
+<div class="checkbox"><label><span><input type="checkbox" />  6 small to medium sized russet baking potatoes (total 3 pounds)</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> Olive oil</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> Canola oil or grapeseed oil</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> Kosher salt</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> Freshly ground pepper</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> 6 strips of bacon</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> 4 ounces grated cheddar cheese</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> 1/2 cup sour cream</span></label></div>
+<div class="checkbox"><label><span><input type="checkbox" /> 2 green onions, thinly sliced, including the greens of the onions</span></label></div>
 
 <h3 id="algo">Algo</h3>
 
-<div class="gist-wrap">
-<script src="https://gist.github.com/Kraymer/3d174cf52f2321521e50.js"> </script>
-</div>
+<div class="highlight"><pre><code class="language-text" data-lang="text"><span class="lineno"> 1</span> Rub potatoes w/ olive_oil                      ┌ 90&#39;🕖 
+<span class="lineno"> 2</span> Microwave at heatmax                      <button id="clock" onClick="startClock()">30</button>&#39;🔥│
+<span class="lineno"> 3</span>     Pan at heat:medi  um                12&#39;🍳╭─┤
+<span class="lineno"> 4</span>     Crumble                                  │ ⋮
+<span class="lineno"> 5</span> Slice half &amp; horizontally                    ╰─┼ 55&#39;
+<span class="lineno"> 6</span> <a href="#" data-toggle="tooltip" title="Inside of the potato won't be used in this recipe">Scoop out</a> (shell:1.5inch)                      │
+<span class="lineno"> 7</span> Rub w/ <a href="#" data-toggle="tooltip" title="Canola refers to an edible oil (also known as canola oil) produced from the seed of any of several varieties of the rape plant">Canola oil</a>                              │
+<span class="lineno"> 8</span> Season w/ salt                                 ├ 40&#39;
+<span class="lineno"> 9</span> Place on baking_rack                           │
+<span class="lineno">10</span> Oven at heat:450°F (10 min/side)          20&#39;🔥├ 15&#39;
+<span class="lineno">11</span> Fill w/ pepper cheddar &amp; bacon                 │
+<span class="lineno">12</span> Oven at heat:450°F                         2&#39;🔥│ 
+<span class="lineno">13</span> Heap w/ sour_cream &amp; green_onions              └ 0&#39;</code></pre></div>
 
-        
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
-    <nav class="pagination" role="navigation">
-      
+
+<script>  
+$(".clock").click(function(){
+    if (clicked === false) {
+        clock = setInterval("stopWatch()", 1000);
+        clicked = true;
+    }
+    else if (clicked === true) {
+    }
+});
+</script>     
       
     </nav><!-- /.pagination -->
   </article>
@@ -179,20 +204,22 @@
 	
   
 	
-  <a href="http://appetizers.party/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+  <a href="http://localhost:4000/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
 
   </footer>
 </div><!-- /.footer-wrapper -->
 
+
 <script type="text/javascript">
-  var BASE_URL = 'http://appetizers.party';
+  var BASE_URL = 'http://localhost:4000';
 </script>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://appetizers.party/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://appetizers.party/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 
+<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+
+<script src="http://localhost:4000/assets/js/timer.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
@@ -225,6 +252,17 @@
         });
     });
 </script>
+
+
+<!-- bootstrap -->
+<script>
+$(document).ready(function() {
+    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+    $("[data-toggle=popover]").popover();
+})
+</script>
+
+
 
 
 </body>

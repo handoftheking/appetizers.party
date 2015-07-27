@@ -17,8 +17,8 @@
 
 
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://appetizers.party/images/site-logo.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://appetizers.party/images/index_back.jpg">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
@@ -43,7 +43,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="http://appetizers.party/assets/css/main.css">
-<link rel="stylesheet" href="http://appetizers.party/assets/css/awesome-bootstrap-checkbox.css">
+
 <!-- Webfonts -->
 <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
@@ -72,17 +72,29 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://appetizers.party/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://appetizers.party/assets/js/vendor/jquery-1.9.1.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://appetizers.party/assets/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="http://appetizers.party/assets/css/bootstrap.min.css">
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="responsive.less" type="text/less" media="screen" />
+<script src="http://appetizers.party/assets/js/bootstrap.min.js"></script>
+
+<script src="http://appetizers.party/assets/js/timer.js"></script>
+
+
 </head>
 
 <body id="page">
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
-	    <ul>
-          
-            <li><a href="http://appetizers.party/" rel="home" title="Appetizers.party"><img src="http://appetizers.party/images/site-logo.png" width="200"  alt="Appetizers.party logo" class="animated fadeInDown"></a>
-          
 
+	    <ul>
+            <li> <a href="http://appetizers.party/" rel="home" title="Appetizers.party"><img src="http://appetizers.party/images/site-logo.png" width="200" alt="Appetizers.party logo"></a></li>
       
 		    
 		        
@@ -101,39 +113,28 @@
 
 <div id="main" role="main">
   <article class="entry">
-    
+    <img src="http://appetizers.party/images/index_back.jpg" class="entry-feature-image" alt="Appetizers.party | Gists of recipes from the best cooking blogs." >
     <div class="entry-wrapper">
       <div class="entry-content">
         <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 
-<header class="masthead">
-    <div class="wrap">
-        <h2 class="site-description animated fadeIn" itemprop="description">Gists of recipes from the best cooking blogs.</h2>
-    </div>
-</header>
-<!-- /.masthead -->
+<div class="google-searchbox">
+    <script>
+      (function() {
+        var cx = '009217259823014548361:jfc3bksj0_g';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <gcse:searchbox-only></gcse:searchbox-only>
+</div>
 
-<div class="js-menu-screen menu-screen"></div>
-
-<!-- Search form -->
-<form method="get" action="http://appetizers.party/search/" data-search-form="" class="simple-search">
-  <label for="q">Search Appetizers.party for:</label>
-  <input type="search" name="q" id="goog-wm-qt" placeholder="What are you looking for?" data-search-input="" autofocus="" />
-  <input type="submit" value="Search" id="goog-wm-sb" />
-</form>
-
-<!-- Search results placeholder -->
-<h6 data-search-found="">
-  <span data-search-found-count=""></span> result(s) found for &ldquo;<span data-search-found-term=""></span>&rdquo;.
-</h6>
-<ul class="post-list" data-search-results=""></ul>
-
-<!-- Search result template -->
-<script type="text/x-template" id="search-result">
-  <li><article>
-    <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
-  </article></li>
-</script>
+<p>&lt;/div&gt;</p>
 
 
       </div><!-- /.entry-content -->
@@ -168,8 +169,8 @@
   var BASE_URL = 'http://appetizers.party';
 </script>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://appetizers.party/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
 <script src="http://appetizers.party/assets/js/scripts.min.js"></script>
 
 
@@ -204,6 +205,17 @@
         });
     });
 </script>
+
+
+<!-- bootstrap -->
+<script>
+$(document).ready(function() {
+    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+    $("[data-toggle=popover]").popover();
+})
+</script>
+
+
 
 
 </body>
